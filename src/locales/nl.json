@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "Dashboard": "Dashboard",
+    "RDW-diensten": "RDW-diensten",
+    "Voertuigen": "Voertuigen",
+    "Autos": "Autos",
+    "Schadevoertuigen": "Schadevoertuigen",
+    "Demontagevoertuigen": "Demontagevoertuigen",
+    "Onderdelen": "Onderdelen",
+    "Werktuigen": "Werktuigen",
+    "Vaartuigen": "Vaartuigen",
+    "Diversen": "Diversen",
+    "Veiling": "Veiling",
+    "Administratie": "Administratie",
+    "Tools": "Tools",
+    "Mijn account": "Mijn account",
+    "Instellingen": "Instellingen",
+    "Nieuws": "Nieuws",
+    "Handleiding": "Handleiding",
+    "Support": "Support"
+  }
+}

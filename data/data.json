@@ -1,0 +1,4258 @@
+{
+    "products": [
+      {
+        "id": 3274264,
+        "barcode": "0003274264",
+        "pid": null,
+        "title": "Audi A1 allstreet 25 TFSI Advanced edition",
+        "description": "2024, 5 deurs Hatchback, Stadagen: 2",
+        "category": {
+          "devCode": "VOERTUIGEN_AUTO",
+          "parent": {
+            "devCode": "VOERTUIGEN"
+          }
+        },
+        "location": {
+          "rootid": 1409,
+          "id": 1409,
+          "name": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationPath": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationInfo": {
+            "address": "Noordeinde 68",
+            "zipPostal": "2514GL",
+            "city": "Den Haag",
+            "phone": "085-0160161"
+          }
+        },
+        "attributeValues": {
+          "WARAUT": null,
+          "ZBRA": null,
+          "WBLV": null,
+          "WBRV": null,
+          "WBLA": null,
+          "WBRA": null,
+          "PRICE_INSURANCE": null,
+          "PRICE_CREDIT": null,
+          "MAKEWAR": null,
+          "TCABLE": null,
+          "CABLELE": null,
+          "RADIUS": null,
+          "TACCU": null,
+          "LVERM": null,
+          "ZBLA": null,
+          "ZBRV": null,
+          "WARCAR": null,
+          "WARB40P": null,
+          "WARBOVG": null,
+          "WAR100": null,
+          "WARBAFL": null,
+          "SER": null,
+          "SERD": null,
+          "DISVER": null,
+          "DISVERD": null,
+          "DISVERKM": null,
+          "PRICE_INKOOP": null,
+          "SERKM": null,
+          "ZBLV": null,
+          "LSPEED": null,
+          "LEASEACCU": null,
+          "ACTIEPRIJS_GELDIG_VANAF": null,
+          "FAST_CHARGING_SPEED": null,
+          "BATTERY_COOLING": null,
+          "BATTERY_HEATING": null,
+          "BATTERY_CONDITION": null,
+          "FAST_CHARGING_TIME": null,
+          "CHARGING_TIME": null,
+          "CHARGING_CONNECTOR": null,
+          "FAST_CHARGING": null,
+          "FAST_CHARGING_CONNECTOR": null,
+          "BDMT_VOOR": null,
+          "WHL_BASE": null,
+          "BATTERY_CAPACITY": null,
+          "BDMT_ACHTER": null,
+          "RIM_SIZE": null,
+          "FUELCAP": null,
+          "MAKEWARM": null,
+          "AIRSERD": null,
+          "AIRSERKM": null,
+          "FAST_CHARGING_CAPACITY": null,
+          "LDVM": null,
+          "TYPE_HYBRIDE": null,
+          "ACTIEPRIJS_GELDIG_TM": null,
+          "CHARGING_CAPACITY": null,
+          "VEHICLE_WIDTH": null,
+          "ORIGIN": null,
+          "NR_OWNERS": null,
+          "STADAGEN": null,
+          "SERVICE_BOOKS": null,
+          "NR_OF_TRANSMITTERS": null,
+          "MODEL_YEAR": null,
+          "REPORTING_CODE": null,
+          "TAX_TYPE": "Marge",
+          "PRICE_REPAIR": null,
+          "PRICE_VALUE": null,
+          "PRICE_SHOWROOM": null,
+          "PRICE_HANDEL": null,
+          "PRICE_ACTION": null,
+          "PRICE_MEENEEM": null,
+          "PRICE_EXPORT": null,
+          "PRICE_NEW": null,
+          "TAX_VALUE": null,
+          "PRICE_PREPARE": null,
+          "NR_OF_OWNERS": null,
+          "RDW_OREH_MELDING": null,
+          "RDW_OKR_MELDING": null,
+          "AGGREGATIONCLASS": null,
+          "VEHICLE_HEIGHT": null,
+          "VEHICLE_LENGTH": null,
+          "EURO_CLASS": null,
+          "IMPORTED": null,
+          "APK_BIJ_AFLEVERING": null,
+          "AFLEVERKOSTEN": null,
+          "ENERGYLABEL": null,
+          "LIST_PRICE": null,
+          "RDW_VOERTUIG_CLASSIFICATIE": null,
+          "APK_VERVAL_DATUM": null,
+          "NR_OF_SEATS": "5",
+          "NR_OF_CYLINDERS": 3,
+          "CONSUMPTION_COMBINED": "5.7",
+          "MAX_MASS_UNBRAKED": null,
+          "MAX_MASS_BRAKED": null,
+          "RDW_OVI_WOK_AANVRAAG_DATUM": null,
+          "NAME_INKOOP": null,
+          "CUSTOM_VEHICLE": null,
+          "BRAND": "Audi",
+          "COLOR": null,
+          "COLNAM": null,
+          "GRDS": null,
+          "MODEL": "A1 allstreet",
+          "TYPE": "25 TFSI Advanced edition",
+          "LICEN": null,
+          "VIN": null,
+          "BOWMD": null,
+          "WEIGH": 1110,
+          "MAX_WEIGH": null,
+          "ENERGY_LABEL": null,
+          "INTC": null,
+          "SHOWLICEN": null,
+          "FACCO": null,
+          "ATX_TYPE_ID": 219318,
+          "SIBBEN_BRAND_ID": 9,
+          "RDW_DATUM_EERSTE_TOELATING_NATIONAAL": null,
+          "RDW_CATALOGUS_PRIJS": null,
+          "RDW_BRUTO_BPM": null,
+          "RDW_DATUM_EERSTE_TOELATING_INTERNATIONAAL": null,
+          "COLOR_METALLIC": null,
+          "RDW_ORAD_MELDING": null,
+          "RDW_ORB_MELDING": null,
+          "TECDOC_ID": null,
+          "CPI_MODEL_ID": null,
+          "CPI_BRAND_ID": null,
+          "ATX_MODEL_ID": 7179,
+          "ATX_BRAND_ID": 96,
+          "RDW_PLAATS_CHASSISNUMMER": null,
+          "KEYS": null,
+          "HAS_MAINTENANCE_HISTORY": null,
+          "NR_OF_KEYS": null,
+          "RDW_OVI_WACHTENOPKEURING": null,
+          "CUSTOM_ID": null,
+          "WARRANTY_AMOUNT": null,
+          "WARRANTY_AMOUNT_TYPE": null,
+          "YOUTUBE_URL": null,
+          "KILOM": null,
+          "VEHICLE_TAX": null,
+          "LDLENG": null,
+          "LDHEI": null,
+          "LDWID": null,
+          "COLOR_TINT": null,
+          "COLOR_TYPE": null,
+          "INTERIOR_COLOR": null,
+          "INTERIOR_COATING": null,
+          "INTN": null,
+          "MTNR": null,
+          "BRAND_BRAKE_SYSTEM": null,
+          "DISTANCE_UNIT": "KM",
+          "BRAND_FUEL_SYSTEM": null,
+          "CC": "999",
+          "KW": "70",
+          "COLEX": null,
+          "DOORS": "5",
+          "BODY": "Hatchback",
+          "DRIVE": "Voorwielaandrijving",
+          "FUEL": "Benzine",
+          "BOWJR": "2024",
+          "DRIVING_POSITION": null,
+          "NR_OF_GEARS": null,
+          "TRANS": "Handgeschakeld",
+          "TRANS_EXTRA": null,
+          "ENGCO": null,
+          "TRANSMISSION_CODE": null
+        },
+        "isArchived": false,
+        "soldAt": null,
+        "price": null,
+        "salePrice": null,
+        "priceWithDiscount": null,
+        "picture": false,
+        "advertisement": {
+          "id": 2578876,
+          "koppelingen": [
+            {
+              "id": 13304728,
+              "portal": 203,
+              "code": "autowereld",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2578876,
+                "status": "",
+                "previewtitle": "Audi A1 allstreet 25 TFSI Advanced edition"
+              },
+              "productId": 3274264
+            },
+            {
+              "id": 13304731,
+              "portal": 291,
+              "code": "nederlandmobiel",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2578876,
+                "status": "",
+                "previewtitle": "Audi A1 allstreet 25 TFSI Advanced edition"
+              },
+              "productId": 3274264
+            },
+            {
+              "id": 13304734,
+              "portal": 320,
+              "code": "taggle",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2578876,
+                "status": "",
+                "previewtitle": "Audi A1 allstreet 25 TFSI Advanced edition"
+              },
+              "productId": 3274264
+            },
+            {
+              "id": 13304737,
+              "portal": 349,
+              "code": "youtube",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2578876,
+                "status": "",
+                "previewtitle": "Audi A1 allstreet 25 TFSI Advanced edition"
+              },
+              "productId": 3274264
+            },
+            {
+              "id": 13304740,
+              "portal": 237,
+              "code": "eigenwebsiteincrementeel1",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2578876,
+                "status": "",
+                "previewtitle": "Audi A1 allstreet 25 TFSI Advanced edition"
+              },
+              "productId": 3274264
+            },
+            {
+              "id": 13304743,
+              "portal": 367,
+              "code": "mobilox",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2578876,
+                "status": "",
+                "previewtitle": "Audi A1 allstreet 25 TFSI Advanced edition"
+              },
+              "productId": 3274264
+            },
+            {
+              "id": 13304746,
+              "portal": 271,
+              "code": "marktnet",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2578876,
+                "status": "",
+                "previewtitle": "Audi A1 allstreet 25 TFSI Advanced edition"
+              },
+              "productId": 3274264
+            },
+            {
+              "id": 13304749,
+              "portal": 333,
+              "code": "tweedehands",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2578876,
+                "status": "",
+                "previewtitle": "Audi A1 allstreet 25 TFSI Advanced edition"
+              },
+              "productId": 3274264
+            },
+            {
+              "id": 13304752,
+              "portal": 202,
+              "code": "autovooru",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2578876,
+                "status": "",
+                "previewtitle": "Audi A1 allstreet 25 TFSI Advanced edition"
+              },
+              "productId": 3274264
+            },
+            {
+              "id": 13304755,
+              "portal": 693,
+              "code": "leaseauto",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2578876,
+                "status": "",
+                "previewtitle": "Audi A1 allstreet 25 TFSI Advanced edition"
+              },
+              "productId": 3274264
+            }
+          ]
+        },
+        "isPart": false,
+        "publishedToWeb": false,
+        "quantity": 1,
+        "automaticFitments": null,
+        "automaticFitmentsStatus": null,
+        "crossReferenceStatus": null,
+        "alerts": [
+          {
+            "text": "Geen tellerstand",
+            "severity": 1,
+            "type": "nap_geen_oordeel"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": 3264970,
+        "barcode": "0003264970",
+        "pid": null,
+        "title": "Volkswagen T-Cross 1.0 TSI Style",
+        "description": "07 \/ 2019, 5 deurs SUV,  APK tot: 24-07-2025, Stadagen: 5",
+        "category": {
+          "devCode": "VOERTUIGEN_AUTO",
+          "parent": {
+            "devCode": "VOERTUIGEN"
+          }
+        },
+        "location": {
+          "rootid": 1409,
+          "id": 1409,
+          "name": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationPath": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationInfo": {
+            "address": "Noordeinde 68",
+            "zipPostal": "2514GL",
+            "city": "Den Haag",
+            "phone": "085-0160161"
+          }
+        },
+        "attributeValues": {
+          "WARAUT": null,
+          "ZBRA": null,
+          "WBLV": null,
+          "WBRV": null,
+          "WBLA": null,
+          "WBRA": null,
+          "PRICE_INSURANCE": null,
+          "PRICE_CREDIT": null,
+          "MAKEWAR": null,
+          "TCABLE": null,
+          "CABLELE": null,
+          "RADIUS": null,
+          "TACCU": null,
+          "LVERM": null,
+          "ZBLA": null,
+          "ZBRV": null,
+          "WARCAR": null,
+          "WARB40P": null,
+          "WARBOVG": null,
+          "WAR100": null,
+          "WARBAFL": null,
+          "SER": null,
+          "SERD": null,
+          "DISVER": null,
+          "DISVERD": null,
+          "DISVERKM": null,
+          "PRICE_INKOOP": null,
+          "SERKM": null,
+          "ZBLV": null,
+          "LSPEED": null,
+          "LEASEACCU": null,
+          "ACTIEPRIJS_GELDIG_VANAF": null,
+          "FAST_CHARGING_SPEED": null,
+          "BATTERY_COOLING": null,
+          "BATTERY_HEATING": null,
+          "BATTERY_CONDITION": null,
+          "FAST_CHARGING_TIME": null,
+          "CHARGING_TIME": null,
+          "CHARGING_CONNECTOR": null,
+          "FAST_CHARGING": null,
+          "FAST_CHARGING_CONNECTOR": null,
+          "BDMT_VOOR": null,
+          "WHL_BASE": null,
+          "BATTERY_CAPACITY": null,
+          "BDMT_ACHTER": null,
+          "RIM_SIZE": null,
+          "FUELCAP": null,
+          "MAKEWARM": null,
+          "AIRSERD": null,
+          "AIRSERKM": null,
+          "FAST_CHARGING_CAPACITY": null,
+          "LDVM": null,
+          "TYPE_HYBRIDE": null,
+          "ACTIEPRIJS_GELDIG_TM": null,
+          "CHARGING_CAPACITY": null,
+          "VEHICLE_WIDTH": null,
+          "ORIGIN": null,
+          "NR_OWNERS": null,
+          "STADAGEN": null,
+          "SERVICE_BOOKS": null,
+          "NR_OF_TRANSMITTERS": null,
+          "MODEL_YEAR": null,
+          "REPORTING_CODE": null,
+          "TAX_TYPE": "Marge",
+          "PRICE_REPAIR": null,
+          "PRICE_VALUE": null,
+          "PRICE_SHOWROOM": null,
+          "PRICE_HANDEL": null,
+          "PRICE_ACTION": null,
+          "PRICE_MEENEEM": null,
+          "PRICE_EXPORT": null,
+          "PRICE_NEW": null,
+          "TAX_VALUE": null,
+          "PRICE_PREPARE": null,
+          "NR_OF_OWNERS": null,
+          "RDW_OREH_MELDING": null,
+          "RDW_OKR_MELDING": null,
+          "AGGREGATIONCLASS": null,
+          "VEHICLE_HEIGHT": null,
+          "VEHICLE_LENGTH": null,
+          "EURO_CLASS": "6",
+          "IMPORTED": null,
+          "APK_BIJ_AFLEVERING": null,
+          "AFLEVERKOSTEN": null,
+          "ENERGYLABEL": null,
+          "LIST_PRICE": null,
+          "RDW_VOERTUIG_CLASSIFICATIE": "Personenauto",
+          "APK_VERVAL_DATUM": "2025-07-24",
+          "NR_OF_SEATS": "5",
+          "NR_OF_CYLINDERS": 3,
+          "CONSUMPTION_COMBINED": "5.8",
+          "MAX_MASS_UNBRAKED": 620,
+          "MAX_MASS_BRAKED": 1100,
+          "RDW_OVI_WOK_AANVRAAG_DATUM": null,
+          "NAME_INKOOP": null,
+          "CUSTOM_VEHICLE": null,
+          "BRAND": "Volkswagen",
+          "COLOR": "blauw",
+          "COLNAM": null,
+          "GRDS": null,
+          "MODEL": "T-Cross",
+          "TYPE": "1.0 TSI Style",
+          "LICEN": "ZV551G",
+          "VIN": null,
+          "BOWMD": "07",
+          "WEIGH": 1150,
+          "MAX_WEIGH": null,
+          "ENERGY_LABEL": null,
+          "INTC": null,
+          "SHOWLICEN": 1,
+          "FACCO": null,
+          "ATX_TYPE_ID": 189279,
+          "SIBBEN_BRAND_ID": 121,
+          "RDW_DATUM_EERSTE_TOELATING_NATIONAAL": "2019-08-14",
+          "RDW_CATALOGUS_PRIJS": 30514.0,
+          "RDW_BRUTO_BPM": 4562.0,
+          "RDW_DATUM_EERSTE_TOELATING_INTERNATIONAAL": "2019-07-11",
+          "COLOR_METALLIC": null,
+          "RDW_ORAD_MELDING": null,
+          "RDW_ORB_MELDING": null,
+          "TECDOC_ID": 134295,
+          "CPI_MODEL_ID": null,
+          "CPI_BRAND_ID": null,
+          "ATX_MODEL_ID": 6573,
+          "ATX_BRAND_ID": 147,
+          "RDW_PLAATS_CHASSISNUMMER": null,
+          "KEYS": null,
+          "HAS_MAINTENANCE_HISTORY": null,
+          "NR_OF_KEYS": null,
+          "RDW_OVI_WACHTENOPKEURING": null,
+          "CUSTOM_ID": null,
+          "WARRANTY_AMOUNT": null,
+          "WARRANTY_AMOUNT_TYPE": null,
+          "YOUTUBE_URL": null,
+          "KILOM": null,
+          "VEHICLE_TAX": "&euro; 125 - 141 per kwartaal",
+          "LDLENG": null,
+          "LDHEI": null,
+          "LDWID": null,
+          "COLOR_TINT": null,
+          "COLOR_TYPE": null,
+          "INTERIOR_COLOR": null,
+          "INTERIOR_COATING": null,
+          "INTN": null,
+          "MTNR": null,
+          "BRAND_BRAKE_SYSTEM": null,
+          "DISTANCE_UNIT": "KM",
+          "BRAND_FUEL_SYSTEM": null,
+          "CC": "999",
+          "KW": "85",
+          "COLEX": null,
+          "DOORS": "5",
+          "BODY": "SUV",
+          "DRIVE": "Voorwielaandrijving",
+          "FUEL": "Benzine",
+          "BOWJR": "2019",
+          "DRIVING_POSITION": null,
+          "NR_OF_GEARS": null,
+          "TRANS": "Handgeschakeld",
+          "TRANS_EXTRA": null,
+          "ENGCO": "DKR",
+          "TRANSMISSION_CODE": null
+        },
+        "isArchived": false,
+        "soldAt": null,
+        "price": null,
+        "salePrice": null,
+        "priceWithDiscount": null,
+        "picture": false,
+        "advertisement": null,
+        "isPart": false,
+        "publishedToWeb": false,
+        "quantity": 1,
+        "automaticFitments": null,
+        "automaticFitmentsStatus": null,
+        "crossReferenceStatus": null,
+        "alerts": [
+          {
+            "text": "Geen tellerstand",
+            "severity": 1,
+            "type": "nap_geen_oordeel"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": 3162301,
+        "barcode": "0003162301",
+        "pid": null,
+        "title": "Mitsubishi Space Star 1.2 Life",
+        "description": "01 \/ 2017, 5 deurs Hatchback, 111090 KM, APK tot: 25-01-2025, Stadagen: 47",
+        "category": {
+          "devCode": "VOERTUIGEN_AUTO",
+          "parent": {
+            "devCode": "VOERTUIGEN"
+          }
+        },
+        "location": {
+          "rootid": 1409,
+          "id": 1409,
+          "name": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationPath": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationInfo": {
+            "address": "Noordeinde 68",
+            "zipPostal": "2514GL",
+            "city": "Den Haag",
+            "phone": "085-0160161"
+          }
+        },
+        "attributeValues": {
+          "WARAUT": null,
+          "ZBRA": null,
+          "WBLV": null,
+          "WBRV": null,
+          "WBLA": null,
+          "WBRA": null,
+          "PRICE_INSURANCE": null,
+          "PRICE_CREDIT": null,
+          "MAKEWAR": null,
+          "TCABLE": null,
+          "CABLELE": null,
+          "RADIUS": null,
+          "TACCU": null,
+          "LVERM": null,
+          "ZBLA": null,
+          "ZBRV": null,
+          "WARCAR": null,
+          "WARB40P": null,
+          "WARBOVG": null,
+          "WAR100": null,
+          "WARBAFL": null,
+          "SER": null,
+          "SERD": null,
+          "DISVER": null,
+          "DISVERD": null,
+          "DISVERKM": null,
+          "PRICE_INKOOP": null,
+          "SERKM": null,
+          "ZBLV": null,
+          "LSPEED": null,
+          "LEASEACCU": null,
+          "ACTIEPRIJS_GELDIG_VANAF": null,
+          "FAST_CHARGING_SPEED": null,
+          "BATTERY_COOLING": null,
+          "BATTERY_HEATING": null,
+          "BATTERY_CONDITION": null,
+          "FAST_CHARGING_TIME": null,
+          "CHARGING_TIME": null,
+          "CHARGING_CONNECTOR": null,
+          "FAST_CHARGING": null,
+          "FAST_CHARGING_CONNECTOR": null,
+          "BDMT_VOOR": null,
+          "WHL_BASE": null,
+          "BATTERY_CAPACITY": null,
+          "BDMT_ACHTER": null,
+          "RIM_SIZE": null,
+          "FUELCAP": null,
+          "MAKEWARM": null,
+          "AIRSERD": null,
+          "AIRSERKM": null,
+          "FAST_CHARGING_CAPACITY": null,
+          "LDVM": null,
+          "TYPE_HYBRIDE": null,
+          "ACTIEPRIJS_GELDIG_TM": null,
+          "CHARGING_CAPACITY": null,
+          "VEHICLE_WIDTH": null,
+          "ORIGIN": null,
+          "NR_OWNERS": null,
+          "STADAGEN": null,
+          "SERVICE_BOOKS": null,
+          "NR_OF_TRANSMITTERS": null,
+          "MODEL_YEAR": null,
+          "REPORTING_CODE": null,
+          "TAX_TYPE": "Marge",
+          "PRICE_REPAIR": null,
+          "PRICE_VALUE": null,
+          "PRICE_SHOWROOM": null,
+          "PRICE_HANDEL": null,
+          "PRICE_ACTION": null,
+          "PRICE_MEENEEM": null,
+          "PRICE_EXPORT": null,
+          "PRICE_NEW": null,
+          "TAX_VALUE": null,
+          "PRICE_PREPARE": null,
+          "NR_OF_OWNERS": null,
+          "RDW_OREH_MELDING": null,
+          "RDW_OKR_MELDING": null,
+          "AGGREGATIONCLASS": null,
+          "VEHICLE_HEIGHT": "1505",
+          "VEHICLE_LENGTH": "380",
+          "EURO_CLASS": "6",
+          "IMPORTED": null,
+          "APK_BIJ_AFLEVERING": null,
+          "AFLEVERKOSTEN": null,
+          "ENERGYLABEL": null,
+          "LIST_PRICE": null,
+          "RDW_VOERTUIG_CLASSIFICATIE": "Personenauto",
+          "APK_VERVAL_DATUM": "2025-01-25",
+          "NR_OF_SEATS": "5",
+          "NR_OF_CYLINDERS": 3,
+          "CONSUMPTION_COMBINED": "4.1",
+          "MAX_MASS_UNBRAKED": 100,
+          "MAX_MASS_BRAKED": 200,
+          "RDW_OVI_WOK_AANVRAAG_DATUM": null,
+          "NAME_INKOOP": null,
+          "CUSTOM_VEHICLE": null,
+          "BRAND": "Mitsubishi",
+          "COLOR": "grijs",
+          "COLNAM": null,
+          "GRDS": null,
+          "MODEL": "Space Star",
+          "TYPE": "1.2 Life",
+          "LICEN": "TN232B",
+          "VIN": null,
+          "BOWMD": "01",
+          "WEIGH": 840,
+          "MAX_WEIGH": null,
+          "ENERGY_LABEL": "B",
+          "INTC": null,
+          "SHOWLICEN": 1,
+          "FACCO": "II",
+          "ATX_TYPE_ID": 160406,
+          "SIBBEN_BRAND_ID": 77,
+          "RDW_DATUM_EERSTE_TOELATING_NATIONAAL": "2018-10-31",
+          "RDW_CATALOGUS_PRIJS": 16775.0,
+          "RDW_BRUTO_BPM": 857.0,
+          "RDW_DATUM_EERSTE_TOELATING_INTERNATIONAAL": "2017-01-25",
+          "COLOR_METALLIC": null,
+          "RDW_ORAD_MELDING": null,
+          "RDW_ORB_MELDING": null,
+          "TECDOC_ID": 57508,
+          "CPI_MODEL_ID": null,
+          "CPI_BRAND_ID": null,
+          "ATX_MODEL_ID": 618,
+          "ATX_BRAND_ID": 124,
+          "RDW_PLAATS_CHASSISNUMMER": "r. motorruimte",
+          "KEYS": null,
+          "HAS_MAINTENANCE_HISTORY": null,
+          "NR_OF_KEYS": null,
+          "RDW_OVI_WACHTENOPKEURING": null,
+          "CUSTOM_ID": null,
+          "WARRANTY_AMOUNT": null,
+          "WARRANTY_AMOUNT_TYPE": null,
+          "YOUTUBE_URL": null,
+          "KILOM": 111090,
+          "VEHICLE_TAX": "&euro; 60 - 68 per kwartaal",
+          "LDLENG": null,
+          "LDHEI": null,
+          "LDWID": null,
+          "COLOR_TINT": null,
+          "COLOR_TYPE": null,
+          "INTERIOR_COLOR": null,
+          "INTERIOR_COATING": null,
+          "INTN": null,
+          "MTNR": null,
+          "BRAND_BRAKE_SYSTEM": null,
+          "DISTANCE_UNIT": "KM",
+          "BRAND_FUEL_SYSTEM": null,
+          "CC": "1193",
+          "KW": "59",
+          "COLEX": null,
+          "DOORS": "5",
+          "BODY": "Hatchback",
+          "DRIVE": "Voorwielaandrijving",
+          "FUEL": "Benzine",
+          "BOWJR": "2017",
+          "DRIVING_POSITION": null,
+          "NR_OF_GEARS": null,
+          "TRANS": "Automaat",
+          "TRANS_EXTRA": null,
+          "ENGCO": "3A92",
+          "TRANSMISSION_CODE": null
+        },
+        "isArchived": false,
+        "soldAt": null,
+        "price": null,
+        "salePrice": null,
+        "priceWithDiscount": null,
+        "picture": "https:\/\/api.mobilox.nl\/media\/cache\/resolve\/default_set\/rc\/dugOFKLl\/ob_uploads\/2023\/12\/1888419\/fa22618225ce2ad0611c7c8292b98723213c6593.jpeg?filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bimage%5D=ob_uploads\/2021\/11\/a76ade029709f7e8ba22b8a0fe4ebb0615ab9c1c.png&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bsize%5D=1&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bposition%5D=top&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Border%5D=0&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bimage%5D=watermarks\/mobilox\/logo.png&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bsize%5D=0.2&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bposition%5D=bottomleft",
+        "advertisement": {
+          "id": 2492815,
+          "koppelingen": [
+            {
+              "id": 12665653,
+              "portal": 203,
+              "code": "autowereld",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2492815,
+                "status": "",
+                "previewtitle": "Mitsubishi Space Star 1.2 Life"
+              },
+              "productId": 3162301
+            },
+            {
+              "id": 12665656,
+              "portal": 291,
+              "code": "nederlandmobiel",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2492815,
+                "status": "",
+                "previewtitle": "Mitsubishi Space Star 1.2 Life"
+              },
+              "productId": 3162301
+            },
+            {
+              "id": 12665659,
+              "portal": 320,
+              "code": "taggle",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2492815,
+                "status": "",
+                "previewtitle": "Mitsubishi Space Star 1.2 Life"
+              },
+              "productId": 3162301
+            },
+            {
+              "id": 12665662,
+              "portal": 349,
+              "code": "youtube",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2492815,
+                "status": "",
+                "previewtitle": "Mitsubishi Space Star 1.2 Life"
+              },
+              "productId": 3162301
+            },
+            {
+              "id": 12665665,
+              "portal": 237,
+              "code": "eigenwebsiteincrementeel1",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2492815,
+                "status": "",
+                "previewtitle": "Mitsubishi Space Star 1.2 Life"
+              },
+              "productId": 3162301
+            },
+            {
+              "id": 12665668,
+              "portal": 367,
+              "code": "mobilox",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2492815,
+                "status": "",
+                "previewtitle": "Mitsubishi Space Star 1.2 Life"
+              },
+              "productId": 3162301
+            },
+            {
+              "id": 12665671,
+              "portal": 271,
+              "code": "marktnet",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2492815,
+                "status": "",
+                "previewtitle": "Mitsubishi Space Star 1.2 Life"
+              },
+              "productId": 3162301
+            },
+            {
+              "id": 12665674,
+              "portal": 333,
+              "code": "tweedehands",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2492815,
+                "status": "",
+                "previewtitle": "Mitsubishi Space Star 1.2 Life"
+              },
+              "productId": 3162301
+            },
+            {
+              "id": 12665677,
+              "portal": 202,
+              "code": "autovooru",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2492815,
+                "status": "",
+                "previewtitle": "Mitsubishi Space Star 1.2 Life"
+              },
+              "productId": 3162301
+            },
+            {
+              "id": 12665680,
+              "portal": 693,
+              "code": "leaseauto",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2492815,
+                "status": "",
+                "previewtitle": "Mitsubishi Space Star 1.2 Life"
+              },
+              "productId": 3162301
+            }
+          ]
+        },
+        "isPart": false,
+        "publishedToWeb": false,
+        "quantity": 1,
+        "automaticFitments": null,
+        "automaticFitmentsStatus": null,
+        "crossReferenceStatus": null,
+        "alerts": [
+          {
+            "text": "Stadagen: 47",
+            "severity": 1,
+            "type": "too_long_in_stock"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": 3093706,
+        "barcode": "0003093706",
+        "pid": null,
+        "title": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio",
+        "description": "2023, 4 deurs Sedan, Stadagen: 74",
+        "category": {
+          "devCode": "VOERTUIGEN_AUTO",
+          "parent": {
+            "devCode": "VOERTUIGEN"
+          }
+        },
+        "location": {
+          "rootid": 1409,
+          "id": 1409,
+          "name": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationPath": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationInfo": {
+            "address": "Noordeinde 68",
+            "zipPostal": "2514GL",
+            "city": "Den Haag",
+            "phone": "085-0160161"
+          }
+        },
+        "attributeValues": {
+          "WARAUT": null,
+          "ZBRA": null,
+          "WBLV": null,
+          "WBRV": null,
+          "WBLA": null,
+          "WBRA": null,
+          "PRICE_INSURANCE": null,
+          "PRICE_CREDIT": null,
+          "MAKEWAR": null,
+          "TCABLE": null,
+          "CABLELE": null,
+          "RADIUS": null,
+          "TACCU": null,
+          "LVERM": null,
+          "ZBLA": null,
+          "ZBRV": null,
+          "WARCAR": null,
+          "WARB40P": null,
+          "WARBOVG": null,
+          "WAR100": null,
+          "WARBAFL": null,
+          "SER": null,
+          "SERD": null,
+          "DISVER": null,
+          "DISVERD": null,
+          "DISVERKM": null,
+          "PRICE_INKOOP": null,
+          "SERKM": null,
+          "ZBLV": null,
+          "LSPEED": null,
+          "LEASEACCU": null,
+          "ACTIEPRIJS_GELDIG_VANAF": null,
+          "FAST_CHARGING_SPEED": null,
+          "BATTERY_COOLING": null,
+          "BATTERY_HEATING": null,
+          "BATTERY_CONDITION": null,
+          "FAST_CHARGING_TIME": null,
+          "CHARGING_TIME": null,
+          "CHARGING_CONNECTOR": null,
+          "FAST_CHARGING": null,
+          "FAST_CHARGING_CONNECTOR": null,
+          "BDMT_VOOR": null,
+          "WHL_BASE": null,
+          "BATTERY_CAPACITY": null,
+          "BDMT_ACHTER": null,
+          "RIM_SIZE": null,
+          "FUELCAP": null,
+          "MAKEWARM": null,
+          "AIRSERD": null,
+          "AIRSERKM": null,
+          "FAST_CHARGING_CAPACITY": null,
+          "LDVM": null,
+          "TYPE_HYBRIDE": null,
+          "ACTIEPRIJS_GELDIG_TM": null,
+          "CHARGING_CAPACITY": null,
+          "VEHICLE_WIDTH": null,
+          "ORIGIN": null,
+          "NR_OWNERS": null,
+          "STADAGEN": null,
+          "SERVICE_BOOKS": null,
+          "NR_OF_TRANSMITTERS": null,
+          "MODEL_YEAR": null,
+          "REPORTING_CODE": null,
+          "TAX_TYPE": "Marge",
+          "PRICE_REPAIR": null,
+          "PRICE_VALUE": null,
+          "PRICE_SHOWROOM": null,
+          "PRICE_HANDEL": null,
+          "PRICE_ACTION": null,
+          "PRICE_MEENEEM": null,
+          "PRICE_EXPORT": null,
+          "PRICE_NEW": null,
+          "TAX_VALUE": null,
+          "PRICE_PREPARE": null,
+          "NR_OF_OWNERS": null,
+          "RDW_OREH_MELDING": null,
+          "RDW_OKR_MELDING": null,
+          "AGGREGATIONCLASS": null,
+          "VEHICLE_HEIGHT": null,
+          "VEHICLE_LENGTH": null,
+          "EURO_CLASS": null,
+          "IMPORTED": null,
+          "APK_BIJ_AFLEVERING": null,
+          "AFLEVERKOSTEN": null,
+          "ENERGYLABEL": null,
+          "LIST_PRICE": null,
+          "RDW_VOERTUIG_CLASSIFICATIE": null,
+          "APK_VERVAL_DATUM": null,
+          "NR_OF_SEATS": "5",
+          "NR_OF_CYLINDERS": 6,
+          "CONSUMPTION_COMBINED": "10",
+          "MAX_MASS_UNBRAKED": null,
+          "MAX_MASS_BRAKED": null,
+          "RDW_OVI_WOK_AANVRAAG_DATUM": null,
+          "NAME_INKOOP": null,
+          "CUSTOM_VEHICLE": null,
+          "BRAND": "Alfa Romeo",
+          "COLOR": "beige",
+          "COLNAM": null,
+          "GRDS": null,
+          "MODEL": "Giulia",
+          "TYPE": "2.9 V6 Quadrifoglio",
+          "LICEN": null,
+          "VIN": null,
+          "BOWMD": null,
+          "WEIGH": 1595,
+          "MAX_WEIGH": null,
+          "ENERGY_LABEL": null,
+          "INTC": null,
+          "SHOWLICEN": 1,
+          "FACCO": "II",
+          "ATX_TYPE_ID": 205265,
+          "SIBBEN_BRAND_ID": 4,
+          "RDW_DATUM_EERSTE_TOELATING_NATIONAAL": null,
+          "RDW_CATALOGUS_PRIJS": null,
+          "RDW_BRUTO_BPM": 0.0,
+          "RDW_DATUM_EERSTE_TOELATING_INTERNATIONAAL": null,
+          "COLOR_METALLIC": null,
+          "RDW_ORAD_MELDING": null,
+          "RDW_ORB_MELDING": null,
+          "TECDOC_ID": 119608,
+          "CPI_MODEL_ID": null,
+          "CPI_BRAND_ID": null,
+          "ATX_MODEL_ID": 592,
+          "ATX_BRAND_ID": 95,
+          "RDW_PLAATS_CHASSISNUMMER": null,
+          "KEYS": null,
+          "HAS_MAINTENANCE_HISTORY": null,
+          "NR_OF_KEYS": null,
+          "RDW_OVI_WACHTENOPKEURING": null,
+          "CUSTOM_ID": null,
+          "WARRANTY_AMOUNT": null,
+          "WARRANTY_AMOUNT_TYPE": null,
+          "YOUTUBE_URL": null,
+          "KILOM": null,
+          "VEHICLE_TAX": null,
+          "LDLENG": null,
+          "LDHEI": null,
+          "LDWID": null,
+          "COLOR_TINT": null,
+          "COLOR_TYPE": "Metallic",
+          "INTERIOR_COLOR": null,
+          "INTERIOR_COATING": null,
+          "INTN": null,
+          "MTNR": null,
+          "BRAND_BRAKE_SYSTEM": null,
+          "DISTANCE_UNIT": "KM",
+          "BRAND_FUEL_SYSTEM": null,
+          "CC": "2891",
+          "KW": "375",
+          "COLEX": null,
+          "DOORS": "4",
+          "BODY": "Sedan",
+          "DRIVE": "Achterwielaandrijving",
+          "FUEL": "Benzine",
+          "BOWJR": "2023",
+          "DRIVING_POSITION": null,
+          "NR_OF_GEARS": null,
+          "TRANS": "Automaat",
+          "TRANS_EXTRA": null,
+          "ENGCO": null,
+          "TRANSMISSION_CODE": null
+        },
+        "isArchived": false,
+        "soldAt": null,
+        "price": null,
+        "salePrice": null,
+        "priceWithDiscount": null,
+        "picture": "https:\/\/api.mobilox.nl\/media\/cache\/resolve\/default_set\/rc\/PSAFY2Om\/ob_uploads\/2023\/11\/1888419\/1960a2152e0fe02f38a4ee5f7796ef9b9aff8f13.jpeg?filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bimage%5D=ob_uploads\/2021\/11\/a76ade029709f7e8ba22b8a0fe4ebb0615ab9c1c.png&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bsize%5D=1&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bposition%5D=top&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Border%5D=0&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bimage%5D=watermarks\/mobilox\/logo.png&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bsize%5D=0.2&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bposition%5D=bottomleft",
+        "advertisement": {
+          "id": 2439862,
+          "title": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio",
+          "status": "adv_active",
+          "content": "Alle auto&#39;s hebben 3 maand garantie",
+          "priceType": 1,
+          "allowOffer": true,
+          "minimalBid": null,
+          "reserved": false,
+          "koppelingen": [
+            {
+              "id": 12273760,
+              "portal": 203,
+              "code": "autowereld",
+              "data": {
+                "status": "error",
+                "foutmelding": "De advertentie kan niet worden geplaatst. De tellerstand is onbekend.",
+                "oplossing": "Vul de tellerstand in.",
+                "warnings": "",
+                "informatie": "",
+                "data": [              ],
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2439862,
+                "status": "adv_active",
+                "previewtitle": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+              },
+              "productId": 3093706
+            },
+            {
+              "id": 12273763,
+              "portal": 291,
+              "code": "nederlandmobiel",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "22-11-2023",
+                  "geplaatst": "22-11-2023",
+                  "url": "https:\/\/www.nederlandmobiel.nl\/tweedehands-auto\/alfa-romeo\/giulia-29-v6-quadrifoglio\/18350850"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/www.nederlandmobiel.nl\/tweedehands-auto\/alfa-romeo\/giulia-29-v6-quadrifoglio\/18350850"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2439862,
+                "status": "adv_active",
+                "previewtitle": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+              },
+              "productId": 3093706
+            },
+            {
+              "id": 12273766,
+              "portal": 320,
+              "code": "taggle",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "qrCode": 3692641,
+                  "qrImageEps": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3692641%2F&s=10&t=E&time=1700679954",
+                  "qrImageJpeg": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3692641%2F&s=28&time=1700679954",
+                  "qrImageStockEps": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F6164003%2F&s=10&t=E&time=1704428688",
+                  "qrImageStockJpeg": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F6164003%2F&s=28&time=1704428688",
+                  "shopLink": null,
+                  "adminLink": "https:\/\/sso.taggle.nl\/5e76a820c56b0a3bfea0d969fef543e366c096401e5e7c51b734cb8bbb55d4e4\/",
+                  "videoCode": 3692641,
+                  "youtubeCode": null,
+                  "eerst_geplaatst": "22-11-2023",
+                  "geplaatst": "22-11-2023",
+                  "url": "https:\/\/share.taggle.nl\/3692641",
+                  "site_ad_id": "3692641"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/share.taggle.nl\/3692641",
+                  "QRimages": "Download de QR-code in <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3692641%2F&s=4&time=1700679954\" target=\"_blank\">small<\/a>, <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3692641%2F&s=10&time=1700679954\" target=\"_blank\">medium<\/a>, <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3692641%2F&s=28&time=1700679954\" target=\"_blank\">large<\/a> of <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3692641%2F&s=10&t=E&time=1700679954\" target=\"_blank\">EPS<\/a> formaat.",
+                  "adminLink": "Klik <a href=\"https:\/\/sso.taggle.nl\/5e76a820c56b0a3bfea0d969fef543e366c096401e5e7c51b734cb8bbb55d4e4\/\" target=\"_blank\">hier<\/a> om naar het naar het beheergedeelte van taGGle te gaan."
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2439862,
+                "status": "adv_active",
+                "previewtitle": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+              },
+              "productId": 3093706
+            },
+            {
+              "id": 12273769,
+              "portal": 349,
+              "code": "youtube",
+              "data": {
+                "status": "error",
+                "foutmelding": "De advertentie kan niet worden geplaatst. Uw account op YouTube is niet gekoppeld.",
+                "oplossing": "<a href=\"https:\/\/youtube.doorlinkenvoorraad.nl\/youtube\/authorization\/6407918cc9ad3cb3f2c441fe7544fed7\/18513\/24773\/\" target=\"_blank\">Koppel<\/a> uw account met YouTube.",
+                "warnings": "",
+                "informatie": "",
+                "data": [              ],
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2439862,
+                "status": "adv_active",
+                "previewtitle": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+              },
+              "productId": 3093706
+            },
+            {
+              "id": 12273772,
+              "portal": 237,
+              "code": "eigenwebsiteincrementeel1",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "22-11-2023",
+                  "geplaatst": "22-11-2023"
+                },
+                "extrainfo": {
+                  "adminLink": "Klik <a href=\"https:\/\/eigenwebsite.doorlinkenvoorraad.nl\/?cid=24773&t=1706603189&key=d201c44f1d4abcbdb47a4ada591ae06d\" target=\"_blank\">hier<\/a> om naar het naar het beheergedeelte van Eigen Website Incrementeel 1 te gaan."
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2439862,
+                "status": "adv_active",
+                "previewtitle": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+              },
+              "productId": 3093706
+            },
+            {
+              "id": 12273775,
+              "portal": 367,
+              "code": "mobilox",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "22-11-2023",
+                  "geplaatst": "22-11-2023"
+                },
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2439862,
+                "status": "adv_active",
+                "previewtitle": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+              },
+              "productId": 3093706
+            },
+            {
+              "id": 12273778,
+              "portal": 271,
+              "code": "marktnet",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "hits": 19,
+                  "adSettingsLink": "http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/252839780\/81916c34df3ec697d1a9af88ad0cf9b3",
+                  "eerst_geplaatst": "22-11-2023",
+                  "geplaatst": "22-11-2023",
+                  "url": "https:\/\/www.marktnet.nl\/ad.asp?Id=69608412",
+                  "site_ad_id": "69608412"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/www.marktnet.nl\/ad.asp?Id=69608412",
+                  "hits": "Deze advertentie is 19 keer bekeken.",
+                  "settings": "<a href=\"http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/252839780\/81916c34df3ec697d1a9af88ad0cf9b3\" target=\"_blank\">Instellingen<\/a>"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2439862,
+                "status": "adv_active",
+                "previewtitle": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+              },
+              "productId": 3093706
+            },
+            {
+              "id": 12273781,
+              "portal": 333,
+              "code": "tweedehands",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "hits": 49,
+                  "adSettingsLink": "http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/252839779\/b2a57e26b7a66df236c3af6cb4c905e7",
+                  "eerst_geplaatst": "22-11-2023",
+                  "geplaatst": "22-11-2023",
+                  "url": "https:\/\/autos.tweedehands.net\/alfa-romeo\/alfa-romeo-giulia-2-9-v6-quadrifoglio.html",
+                  "site_ad_id": "39612945"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/autos.tweedehands.net\/alfa-romeo\/alfa-romeo-giulia-2-9-v6-quadrifoglio.html",
+                  "hits": "Deze advertentie is 49 keer bekeken.",
+                  "settings": "<a href=\"http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/252839779\/b2a57e26b7a66df236c3af6cb4c905e7\" target=\"_blank\">Instellingen<\/a>"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2439862,
+                "status": "adv_active",
+                "previewtitle": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+              },
+              "productId": 3093706
+            },
+            {
+              "id": 12273784,
+              "portal": 202,
+              "code": "autovooru",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "22-11-2023",
+                  "geplaatst": "22-11-2023",
+                  "url": "https:\/\/autovooru.nl\/alfaromeo-giulia~be-527-3a6db5.html"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/autovooru.nl\/alfaromeo-giulia~be-527-3a6db5.html"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2439862,
+                "status": "adv_active",
+                "previewtitle": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+              },
+              "productId": 3093706
+            },
+            {
+              "id": 12273787,
+              "portal": 693,
+              "code": "leaseauto",
+              "data": {
+                "status": "error",
+                "foutmelding": "De advertentie kan niet worden geplaatst. De showroomvraagprijs is onbekend.",
+                "oplossing": "Vul de showroomvraagprijs in.",
+                "warnings": "",
+                "informatie": "",
+                "data": [              ],
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2439862,
+                "status": "adv_active",
+                "previewtitle": "Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+              },
+              "productId": 3093706
+            }
+          ]
+        },
+        "isPart": false,
+        "publishedToWeb": true,
+        "quantity": 1,
+        "automaticFitments": null,
+        "automaticFitmentsStatus": null,
+        "crossReferenceStatus": null,
+        "alerts": [
+          {
+            "text": "Stadagen: 74",
+            "severity": 1,
+            "type": "too_long_in_stock"
+          },
+          {
+            "text": "Geen tellerstand",
+            "severity": 1,
+            "type": "nap_geen_oordeel"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": 3033062,
+        "barcode": "0003033062",
+        "pid": null,
+        "title": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat",
+        "description": "08 \/ 2018, 5 deurs SUV, 500 KM, APK tot: 15-08-2024, Stadagen: 95",
+        "category": {
+          "devCode": "VOERTUIGEN_AUTO",
+          "parent": {
+            "devCode": "VOERTUIGEN"
+          }
+        },
+        "location": {
+          "rootid": 1409,
+          "id": 1409,
+          "name": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationPath": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationInfo": {
+            "address": "Noordeinde 68",
+            "zipPostal": "2514GL",
+            "city": "Den Haag",
+            "phone": "085-0160161"
+          }
+        },
+        "attributeValues": {
+          "WARAUT": null,
+          "ZBRA": null,
+          "WBLV": null,
+          "WBRV": null,
+          "WBLA": null,
+          "WBRA": null,
+          "PRICE_INSURANCE": null,
+          "PRICE_CREDIT": null,
+          "MAKEWAR": null,
+          "TCABLE": null,
+          "CABLELE": null,
+          "RADIUS": null,
+          "TACCU": null,
+          "LVERM": null,
+          "ZBLA": null,
+          "ZBRV": null,
+          "WARCAR": null,
+          "WARB40P": null,
+          "WARBOVG": null,
+          "WAR100": null,
+          "WARBAFL": null,
+          "SER": null,
+          "SERD": null,
+          "DISVER": "Ja",
+          "DISVERD": null,
+          "DISVERKM": null,
+          "PRICE_INKOOP": null,
+          "SERKM": null,
+          "ZBLV": null,
+          "LSPEED": null,
+          "LEASEACCU": null,
+          "ACTIEPRIJS_GELDIG_VANAF": null,
+          "FAST_CHARGING_SPEED": null,
+          "BATTERY_COOLING": null,
+          "BATTERY_HEATING": null,
+          "BATTERY_CONDITION": null,
+          "FAST_CHARGING_TIME": null,
+          "CHARGING_TIME": null,
+          "CHARGING_CONNECTOR": null,
+          "FAST_CHARGING": null,
+          "FAST_CHARGING_CONNECTOR": null,
+          "BDMT_VOOR": null,
+          "WHL_BASE": null,
+          "BATTERY_CAPACITY": null,
+          "BDMT_ACHTER": null,
+          "RIM_SIZE": null,
+          "FUELCAP": null,
+          "MAKEWARM": null,
+          "AIRSERD": null,
+          "AIRSERKM": null,
+          "FAST_CHARGING_CAPACITY": null,
+          "LDVM": null,
+          "TYPE_HYBRIDE": null,
+          "ACTIEPRIJS_GELDIG_TM": null,
+          "CHARGING_CAPACITY": null,
+          "VEHICLE_WIDTH": "186",
+          "ORIGIN": null,
+          "NR_OWNERS": null,
+          "STADAGEN": null,
+          "SERVICE_BOOKS": null,
+          "NR_OF_TRANSMITTERS": null,
+          "MODEL_YEAR": null,
+          "REPORTING_CODE": 9901,
+          "TAX_TYPE": "Marge",
+          "PRICE_REPAIR": null,
+          "PRICE_VALUE": null,
+          "PRICE_SHOWROOM": null,
+          "PRICE_HANDEL": null,
+          "PRICE_ACTION": null,
+          "PRICE_MEENEEM": null,
+          "PRICE_EXPORT": null,
+          "PRICE_NEW": null,
+          "TAX_VALUE": null,
+          "PRICE_PREPARE": null,
+          "NR_OF_OWNERS": null,
+          "RDW_OREH_MELDING": null,
+          "RDW_OKR_MELDING": null,
+          "AGGREGATIONCLASS": null,
+          "VEHICLE_HEIGHT": null,
+          "VEHICLE_LENGTH": null,
+          "EURO_CLASS": "6",
+          "IMPORTED": null,
+          "APK_BIJ_AFLEVERING": null,
+          "AFLEVERKOSTEN": null,
+          "ENERGYLABEL": null,
+          "LIST_PRICE": null,
+          "RDW_VOERTUIG_CLASSIFICATIE": "Personenauto",
+          "APK_VERVAL_DATUM": "2024-08-15",
+          "NR_OF_SEATS": "7",
+          "NR_OF_CYLINDERS": 4,
+          "CONSUMPTION_COMBINED": "7.7",
+          "MAX_MASS_UNBRAKED": 750,
+          "MAX_MASS_BRAKED": 2400,
+          "RDW_OVI_WOK_AANVRAAG_DATUM": null,
+          "NAME_INKOOP": null,
+          "CUSTOM_VEHICLE": null,
+          "BRAND": "Volkswagen",
+          "COLOR": "zwart",
+          "COLNAM": null,
+          "GRDS": null,
+          "MODEL": "Tiguan Allspace",
+          "TYPE": "2.0 TSI 4Motion Highline Business R 7p.",
+          "LICEN": "N358LL",
+          "VIN": null,
+          "BOWMD": "08",
+          "WEIGH": 1675,
+          "MAX_WEIGH": null,
+          "ENERGY_LABEL": null,
+          "INTC": null,
+          "SHOWLICEN": 1,
+          "FACCO": null,
+          "ATX_TYPE_ID": 180418,
+          "SIBBEN_BRAND_ID": 121,
+          "RDW_DATUM_EERSTE_TOELATING_NATIONAAL": "2021-11-16",
+          "RDW_CATALOGUS_PRIJS": 59429.0,
+          "RDW_BRUTO_BPM": 8848.0,
+          "RDW_DATUM_EERSTE_TOELATING_INTERNATIONAAL": "2018-08-06",
+          "COLOR_METALLIC": null,
+          "RDW_ORAD_MELDING": null,
+          "RDW_ORB_MELDING": null,
+          "TECDOC_ID": 128698,
+          "CPI_MODEL_ID": null,
+          "CPI_BRAND_ID": null,
+          "ATX_MODEL_ID": 6400,
+          "ATX_BRAND_ID": 147,
+          "RDW_PLAATS_CHASSISNUMMER": null,
+          "KEYS": null,
+          "HAS_MAINTENANCE_HISTORY": null,
+          "NR_OF_KEYS": null,
+          "RDW_OVI_WACHTENOPKEURING": null,
+          "CUSTOM_ID": null,
+          "WARRANTY_AMOUNT": null,
+          "WARRANTY_AMOUNT_TYPE": null,
+          "YOUTUBE_URL": null,
+          "KILOM": 500,
+          "VEHICLE_TAX": "&euro; 263 - 298 per kwartaal",
+          "LDLENG": null,
+          "LDHEI": null,
+          "LDWID": null,
+          "COLOR_TINT": null,
+          "COLOR_TYPE": "Metallic",
+          "INTERIOR_COLOR": null,
+          "INTERIOR_COATING": null,
+          "INTN": null,
+          "MTNR": null,
+          "BRAND_BRAKE_SYSTEM": null,
+          "DISTANCE_UNIT": "KM",
+          "BRAND_FUEL_SYSTEM": null,
+          "CC": "1984",
+          "KW": "132",
+          "COLEX": null,
+          "DOORS": "5",
+          "BODY": "SUV",
+          "DRIVE": "Vierwielaandrijving",
+          "FUEL": "Benzine",
+          "BOWJR": "2018",
+          "DRIVING_POSITION": null,
+          "NR_OF_GEARS": null,
+          "TRANS": "Automaat",
+          "TRANS_EXTRA": null,
+          "ENGCO": "DGV",
+          "TRANSMISSION_CODE": null
+        },
+        "isArchived": false,
+        "soldAt": null,
+        "price": 49500.0,
+        "salePrice": null,
+        "priceWithDiscount": 49500.0,
+        "picture": "https:\/\/api.mobilox.nl\/media\/cache\/resolve\/default_set\/rc\/Drc6193A\/ob_uploads\/2023\/11\/1888419\/2365fc96d35f33ebf7835190961b4cd75e68504c.jpeg?filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bimage%5D=ob_uploads\/2021\/11\/a76ade029709f7e8ba22b8a0fe4ebb0615ab9c1c.png&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bsize%5D=1&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bposition%5D=top&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Border%5D=0&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bimage%5D=ob_uploads\/2022\/11\/1888419\/60b70b4a181f51935499a72fc03c8e9a396bf2f6.png&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bsize%5D=0.3&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bposition%5D=topleft&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Border%5D=1&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bcustom%5D=1&filters%5Bmultiple_watermark_filter%5D%5B2%5D%5Bimage%5D=watermarks\/mobilox\/logo.png&filters%5Bmultiple_watermark_filter%5D%5B2%5D%5Bsize%5D=0.2&filters%5Bmultiple_watermark_filter%5D%5B2%5D%5Bposition%5D=bottomleft",
+        "advertisement": {
+          "id": 2395469,
+          "title": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat",
+          "status": "adv_active",
+          "content": "Alle auto&#39;s hebben 3 maand garantie",
+          "priceType": 1,
+          "allowOffer": true,
+          "minimalBid": null,
+          "reserved": false,
+          "koppelingen": [
+            {
+              "id": 11962298,
+              "portal": 203,
+              "code": "autowereld",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "07-11-2023",
+                  "geplaatst": "07-11-2023",
+                  "url": "https:\/\/www.autowereld.nl\/?nr=38832866",
+                  "site_ad_id": "38832866"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/www.autowereld.nl\/?nr=38832866",
+                  "hitsAdvanced1": "Deze advertentie is de afgelopen week 7 keer bekeken. De afgelopen maand was dit 38. <a href=\"https:\/\/www.autowereld.nl\/c?act=inl-60c17506d6639b816cfc377cbb365556-680574&auto=38832866\" target=\"blank\">Meer informatie<\/a>"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2395469,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat"
+              },
+              "productId": 3033062
+            },
+            {
+              "id": 11962301,
+              "portal": 291,
+              "code": "nederlandmobiel",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "07-11-2023",
+                  "geplaatst": "07-11-2023",
+                  "url": "https:\/\/www.nederlandmobiel.nl\/tweedehands-auto\/volkswagen\/tiguan-allspace-20-tsi-4motion-highline-business-r-7p-automaat\/18274259"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/www.nederlandmobiel.nl\/tweedehands-auto\/volkswagen\/tiguan-allspace-20-tsi-4motion-highline-business-r-7p-automaat\/18274259"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2395469,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat"
+              },
+              "productId": 3033062
+            },
+            {
+              "id": 11962304,
+              "portal": 320,
+              "code": "taggle",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "qrCode": 2831898,
+                  "qrImageEps": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2831898%2F&s=10&t=E&time=1699365016",
+                  "qrImageJpeg": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2831898%2F&s=28&time=1699365016",
+                  "qrImageStockEps": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F6164003%2F&s=10&t=E&time=1704428688",
+                  "qrImageStockJpeg": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F6164003%2F&s=28&time=1704428688",
+                  "shopLink": null,
+                  "adminLink": "https:\/\/sso.taggle.nl\/5e76a820c56b0a3bfea0d969fef543e366c096401e5e7c51b734cb8bbb55d4e4\/",
+                  "videoCode": 2831898,
+                  "youtubeCode": null,
+                  "eerst_geplaatst": "07-11-2023",
+                  "geplaatst": "07-11-2023",
+                  "url": "https:\/\/share.taggle.nl\/2831898",
+                  "site_ad_id": "2831898"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/share.taggle.nl\/2831898",
+                  "QRimages": "Download de QR-code in <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2831898%2F&s=4&time=1699365016\" target=\"_blank\">small<\/a>, <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2831898%2F&s=10&time=1699365016\" target=\"_blank\">medium<\/a>, <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2831898%2F&s=28&time=1699365016\" target=\"_blank\">large<\/a> of <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2831898%2F&s=10&t=E&time=1699365016\" target=\"_blank\">EPS<\/a> formaat.",
+                  "adminLink": "Klik <a href=\"https:\/\/sso.taggle.nl\/5e76a820c56b0a3bfea0d969fef543e366c096401e5e7c51b734cb8bbb55d4e4\/\" target=\"_blank\">hier<\/a> om naar het naar het beheergedeelte van taGGle te gaan."
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2395469,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat"
+              },
+              "productId": 3033062
+            },
+            {
+              "id": 11962307,
+              "portal": 349,
+              "code": "youtube",
+              "data": {
+                "status": "error",
+                "foutmelding": "De advertentie kan niet worden geplaatst. Uw account op YouTube is niet gekoppeld.",
+                "oplossing": "<a href=\"https:\/\/youtube.doorlinkenvoorraad.nl\/youtube\/authorization\/6407918cc9ad3cb3f2c441fe7544fed7\/18513\/24773\/\" target=\"_blank\">Koppel<\/a> uw account met YouTube.",
+                "warnings": "",
+                "informatie": "",
+                "data": [              ],
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2395469,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat"
+              },
+              "productId": 3033062
+            },
+            {
+              "id": 11962310,
+              "portal": 237,
+              "code": "eigenwebsiteincrementeel1",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "07-11-2023",
+                  "geplaatst": "07-11-2023"
+                },
+                "extrainfo": {
+                  "adminLink": "Klik <a href=\"https:\/\/eigenwebsite.doorlinkenvoorraad.nl\/?cid=24773&t=1704709506&key=a30c264e85a37d7f9d428e6e144fcc66\" target=\"_blank\">hier<\/a> om naar het naar het beheergedeelte van Eigen Website Incrementeel 1 te gaan."
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2395469,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat"
+              },
+              "productId": 3033062
+            },
+            {
+              "id": 11962313,
+              "portal": 367,
+              "code": "mobilox",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "07-11-2023",
+                  "geplaatst": "07-11-2023"
+                },
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2395469,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat"
+              },
+              "productId": 3033062
+            },
+            {
+              "id": 11962316,
+              "portal": 271,
+              "code": "marktnet",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "adSettingsLink": "http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/251611275\/9e2c8cc7d0b6afe2c60af83f5f6dfca8",
+                  "eerst_geplaatst": "07-11-2023",
+                  "geplaatst": "07-11-2023",
+                  "url": "https:\/\/www.marktnet.nl\/ad.asp?Id=69134184",
+                  "site_ad_id": "69134184",
+                  "hits": 2
+                },
+                "extrainfo": {
+                  "url": "https:\/\/www.marktnet.nl\/ad.asp?Id=69134184",
+                  "hits": "Deze advertentie is 2 keer bekeken.",
+                  "settings": "<a href=\"http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/251611275\/9e2c8cc7d0b6afe2c60af83f5f6dfca8\" target=\"_blank\">Instellingen<\/a>"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2395469,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat"
+              },
+              "productId": 3033062
+            },
+            {
+              "id": 11962319,
+              "portal": 333,
+              "code": "tweedehands",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "adSettingsLink": "http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/251611273\/700b6f5b4905c07b61089400b4f146f4",
+                  "eerst_geplaatst": "07-11-2023",
+                  "geplaatst": "07-11-2023",
+                  "url": "https:\/\/autos.tweedehands.net\/volkswagen\/volkswagen-tiguan-allspace-2-0-tsi-4motion-highline-business-r-7p-automaat.html",
+                  "site_ad_id": "39550687",
+                  "hits": 131
+                },
+                "extrainfo": {
+                  "url": "https:\/\/autos.tweedehands.net\/volkswagen\/volkswagen-tiguan-allspace-2-0-tsi-4motion-highline-business-r-7p-automaat.html",
+                  "hits": "Deze advertentie is 131 keer bekeken.",
+                  "settings": "<a href=\"http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/251611273\/700b6f5b4905c07b61089400b4f146f4\" target=\"_blank\">Instellingen<\/a>"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2395469,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat"
+              },
+              "productId": 3033062
+            },
+            {
+              "id": 11962322,
+              "portal": 202,
+              "code": "autovooru",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "07-11-2023",
+                  "geplaatst": "07-11-2023",
+                  "url": "https:\/\/autovooru.nl\/volkswagen-tiguan~164-91b-3a238a.html"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/autovooru.nl\/volkswagen-tiguan~164-91b-3a238a.html"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2395469,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat"
+              },
+              "productId": 3033062
+            },
+            {
+              "id": 11962325,
+              "portal": 693,
+              "code": "leaseauto",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "07-11-2023",
+                  "geplaatst": "07-11-2023",
+                  "url": "https:\/\/lease.auto\/occasion\/volkswagen-tiguan-allspace-20-tsi-4motion-highline-business-r-7p-automaat",
+                  "site_ad_id": "902351752"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/lease.auto\/occasion\/volkswagen-tiguan-allspace-20-tsi-4motion-highline-business-r-7p-automaat"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2395469,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat"
+              },
+              "productId": 3033062
+            },
+            {
+              "id": 11962328,
+              "portal": 184,
+              "code": "autocenter",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "08-11-2023",
+                  "geplaatst": "08-11-2023"
+                },
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2395469,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Tiguan Allspace 2.0 TSI 4Motion Highline Business R 7p. Automaat"
+              },
+              "productId": 3033062
+            }
+          ]
+        },
+        "isPart": false,
+        "publishedToWeb": true,
+        "quantity": 1,
+        "automaticFitments": null,
+        "automaticFitmentsStatus": null,
+        "crossReferenceStatus": null,
+        "alerts": [
+          {
+            "text": "Stadagen: 95",
+            "severity": 1,
+            "type": "too_long_in_stock"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": 3015764,
+        "barcode": "0003015764",
+        "pid": null,
+        "title": "Citroen C4 1.2 Puretech Feel | Trekhaak |",
+        "description": "03 \/ 2022, 5 deurs Hatchback,  APK tot: 30-03-2026, Stadagen: 101",
+        "category": {
+          "devCode": "VOERTUIGEN_AUTO",
+          "parent": {
+            "devCode": "VOERTUIGEN"
+          }
+        },
+        "location": {
+          "rootid": 1409,
+          "id": 1409,
+          "name": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationPath": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationInfo": {
+            "address": "Noordeinde 68",
+            "zipPostal": "2514GL",
+            "city": "Den Haag",
+            "phone": "085-0160161"
+          }
+        },
+        "attributeValues": {
+          "WARAUT": null,
+          "ZBRA": null,
+          "WBLV": null,
+          "WBRV": null,
+          "WBLA": null,
+          "WBRA": null,
+          "PRICE_INSURANCE": null,
+          "PRICE_CREDIT": null,
+          "MAKEWAR": null,
+          "TCABLE": null,
+          "CABLELE": null,
+          "RADIUS": null,
+          "TACCU": null,
+          "LVERM": null,
+          "ZBLA": null,
+          "ZBRV": null,
+          "WARCAR": null,
+          "WARB40P": null,
+          "WARBOVG": null,
+          "WAR100": null,
+          "WARBAFL": null,
+          "SER": null,
+          "SERD": null,
+          "DISVER": null,
+          "DISVERD": null,
+          "DISVERKM": null,
+          "PRICE_INKOOP": 1500.0,
+          "SERKM": null,
+          "ZBLV": null,
+          "LSPEED": null,
+          "LEASEACCU": null,
+          "ACTIEPRIJS_GELDIG_VANAF": null,
+          "FAST_CHARGING_SPEED": null,
+          "BATTERY_COOLING": null,
+          "BATTERY_HEATING": null,
+          "BATTERY_CONDITION": null,
+          "FAST_CHARGING_TIME": null,
+          "CHARGING_TIME": null,
+          "CHARGING_CONNECTOR": null,
+          "FAST_CHARGING": null,
+          "FAST_CHARGING_CONNECTOR": null,
+          "BDMT_VOOR": null,
+          "WHL_BASE": null,
+          "BATTERY_CAPACITY": null,
+          "BDMT_ACHTER": null,
+          "RIM_SIZE": null,
+          "FUELCAP": null,
+          "MAKEWARM": null,
+          "AIRSERD": null,
+          "AIRSERKM": null,
+          "FAST_CHARGING_CAPACITY": null,
+          "LDVM": null,
+          "TYPE_HYBRIDE": null,
+          "ACTIEPRIJS_GELDIG_TM": null,
+          "CHARGING_CAPACITY": null,
+          "VEHICLE_WIDTH": "180",
+          "ORIGIN": null,
+          "NR_OWNERS": null,
+          "STADAGEN": null,
+          "SERVICE_BOOKS": null,
+          "NR_OF_TRANSMITTERS": null,
+          "MODEL_YEAR": null,
+          "REPORTING_CODE": 1234,
+          "TAX_TYPE": "Marge",
+          "PRICE_REPAIR": null,
+          "PRICE_VALUE": null,
+          "PRICE_SHOWROOM": null,
+          "PRICE_HANDEL": null,
+          "PRICE_ACTION": null,
+          "PRICE_MEENEEM": null,
+          "PRICE_EXPORT": null,
+          "PRICE_NEW": null,
+          "TAX_VALUE": null,
+          "PRICE_PREPARE": null,
+          "NR_OF_OWNERS": null,
+          "RDW_OREH_MELDING": null,
+          "RDW_OKR_MELDING": null,
+          "AGGREGATIONCLASS": null,
+          "VEHICLE_HEIGHT": null,
+          "VEHICLE_LENGTH": "436",
+          "EURO_CLASS": "6",
+          "IMPORTED": null,
+          "APK_BIJ_AFLEVERING": null,
+          "AFLEVERKOSTEN": null,
+          "ENERGYLABEL": null,
+          "LIST_PRICE": null,
+          "RDW_VOERTUIG_CLASSIFICATIE": "Personenauto",
+          "APK_VERVAL_DATUM": "2026-03-30",
+          "NR_OF_SEATS": "5",
+          "NR_OF_CYLINDERS": 3,
+          "CONSUMPTION_COMBINED": "5.4",
+          "MAX_MASS_UNBRAKED": 670,
+          "MAX_MASS_BRAKED": 1200,
+          "RDW_OVI_WOK_AANVRAAG_DATUM": null,
+          "NAME_INKOOP": null,
+          "CUSTOM_VEHICLE": null,
+          "BRAND": "Citroen",
+          "COLOR": "oranje",
+          "COLNAM": null,
+          "GRDS": null,
+          "MODEL": "C4",
+          "TYPE": "1.2 Puretech Feel | Trekhaak |",
+          "LICEN": "T817XT",
+          "VIN": "123456789",
+          "BOWMD": "03",
+          "WEIGH": 1253,
+          "MAX_WEIGH": null,
+          "ENERGY_LABEL": null,
+          "INTC": null,
+          "SHOWLICEN": 1,
+          "FACCO": "III",
+          "ATX_TYPE_ID": 208345,
+          "SIBBEN_BRAND_ID": 22,
+          "RDW_DATUM_EERSTE_TOELATING_NATIONAAL": null,
+          "RDW_CATALOGUS_PRIJS": 36381.0,
+          "RDW_BRUTO_BPM": 623.0,
+          "RDW_DATUM_EERSTE_TOELATING_INTERNATIONAAL": "2022-03-30",
+          "COLOR_METALLIC": null,
+          "RDW_ORAD_MELDING": null,
+          "RDW_ORB_MELDING": null,
+          "TECDOC_ID": 144440,
+          "CPI_MODEL_ID": null,
+          "CPI_BRAND_ID": null,
+          "ATX_MODEL_ID": 1778,
+          "ATX_BRAND_ID": 103,
+          "RDW_PLAATS_CHASSISNUMMER": null,
+          "KEYS": null,
+          "HAS_MAINTENANCE_HISTORY": null,
+          "NR_OF_KEYS": null,
+          "RDW_OVI_WACHTENOPKEURING": null,
+          "CUSTOM_ID": null,
+          "WARRANTY_AMOUNT": null,
+          "WARRANTY_AMOUNT_TYPE": null,
+          "YOUTUBE_URL": null,
+          "KILOM": null,
+          "VEHICLE_TAX": "&euro; 171 - 193 per kwartaal",
+          "LDLENG": null,
+          "LDHEI": null,
+          "LDWID": null,
+          "COLOR_TINT": null,
+          "COLOR_TYPE": "Metallic",
+          "INTERIOR_COLOR": null,
+          "INTERIOR_COATING": null,
+          "INTN": null,
+          "MTNR": null,
+          "BRAND_BRAKE_SYSTEM": null,
+          "DISTANCE_UNIT": "KM",
+          "BRAND_FUEL_SYSTEM": null,
+          "CC": "1199",
+          "KW": "96",
+          "COLEX": null,
+          "DOORS": "5",
+          "BODY": "Hatchback",
+          "DRIVE": "Voorwielaandrijving",
+          "FUEL": "Benzine",
+          "BOWJR": "2022",
+          "DRIVING_POSITION": null,
+          "NR_OF_GEARS": null,
+          "TRANS": "Handgeschakeld",
+          "TRANS_EXTRA": null,
+          "ENGCO": "HN05",
+          "TRANSMISSION_CODE": null
+        },
+        "isArchived": false,
+        "soldAt": null,
+        "price": 3500.0,
+        "salePrice": null,
+        "priceWithDiscount": 3500.0,
+        "picture": "https:\/\/api.mobilox.nl\/media\/cache\/resolve\/default_set\/rc\/MP6QO8O4\/ob_uploads\/2023\/11\/1888419\/db4a81c24ed446f1ec84866075f399b28dda1ca7.jpeg?filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bimage%5D=ob_uploads\/2021\/11\/a76ade029709f7e8ba22b8a0fe4ebb0615ab9c1c.png&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bsize%5D=1&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bposition%5D=top&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Border%5D=0&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bimage%5D=watermarks\/mobilox\/logo.png&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bsize%5D=0.2&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bposition%5D=bottomleft",
+        "advertisement": {
+          "id": 2411575,
+          "title": "Citroen C4 1.2 Puretech Feel | Trekhaak |",
+          "status": "adv_active",
+          "content": "Alle auto&#39;s hebben 3 maand garantie",
+          "priceType": 1,
+          "allowOffer": true,
+          "minimalBid": null,
+          "reserved": false,
+          "koppelingen": [
+            {
+              "id": 12074986,
+              "portal": 203,
+              "code": "autowereld",
+              "data": {
+                "status": "error",
+                "foutmelding": "De advertentie kan niet worden geplaatst. De tellerstand is onbekend.",
+                "oplossing": "Vul de tellerstand in.",
+                "warnings": "",
+                "informatie": "",
+                "data": [              ],
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2411575,
+                "status": "adv_active",
+                "previewtitle": "Citroen C4 1.2 Puretech Feel | Trekhaak |"
+              },
+              "productId": 3015764
+            },
+            {
+              "id": 12074989,
+              "portal": 291,
+              "code": "nederlandmobiel",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "09-11-2023",
+                  "geplaatst": "09-11-2023",
+                  "url": "https:\/\/www.nederlandmobiel.nl\/tweedehands-auto\/citroen\/c4-12-puretech-feel-trekhaak\/18283362"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/www.nederlandmobiel.nl\/tweedehands-auto\/citroen\/c4-12-puretech-feel-trekhaak\/18283362"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2411575,
+                "status": "adv_active",
+                "previewtitle": "Citroen C4 1.2 Puretech Feel | Trekhaak |"
+              },
+              "productId": 3015764
+            },
+            {
+              "id": 12074992,
+              "portal": 320,
+              "code": "taggle",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "qrCode": 3396988,
+                  "qrImageEps": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3396988%2F&s=10&t=E&time=1699522773",
+                  "qrImageJpeg": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3396988%2F&s=28&time=1699522773",
+                  "qrImageStockEps": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F6164003%2F&s=10&t=E&time=1704428688",
+                  "qrImageStockJpeg": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F6164003%2F&s=28&time=1704428688",
+                  "shopLink": null,
+                  "adminLink": "https:\/\/sso.taggle.nl\/5e76a820c56b0a3bfea0d969fef543e366c096401e5e7c51b734cb8bbb55d4e4\/",
+                  "videoCode": 3396988,
+                  "youtubeCode": null,
+                  "eerst_geplaatst": "09-11-2023",
+                  "geplaatst": "09-11-2023",
+                  "url": "https:\/\/share.taggle.nl\/3396988",
+                  "site_ad_id": "3396988"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/share.taggle.nl\/3396988",
+                  "QRimages": "Download de QR-code in <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3396988%2F&s=4&time=1699522773\" target=\"_blank\">small<\/a>, <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3396988%2F&s=10&time=1699522773\" target=\"_blank\">medium<\/a>, <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3396988%2F&s=28&time=1699522773\" target=\"_blank\">large<\/a> of <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F3396988%2F&s=10&t=E&time=1699522773\" target=\"_blank\">EPS<\/a> formaat.",
+                  "adminLink": "Klik <a href=\"https:\/\/sso.taggle.nl\/5e76a820c56b0a3bfea0d969fef543e366c096401e5e7c51b734cb8bbb55d4e4\/\" target=\"_blank\">hier<\/a> om naar het naar het beheergedeelte van taGGle te gaan."
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2411575,
+                "status": "adv_active",
+                "previewtitle": "Citroen C4 1.2 Puretech Feel | Trekhaak |"
+              },
+              "productId": 3015764
+            },
+            {
+              "id": 12074995,
+              "portal": 349,
+              "code": "youtube",
+              "data": {
+                "status": "error",
+                "foutmelding": "De advertentie kan niet worden geplaatst. Uw account op YouTube is niet gekoppeld.",
+                "oplossing": "<a href=\"https:\/\/youtube.doorlinkenvoorraad.nl\/youtube\/authorization\/6407918cc9ad3cb3f2c441fe7544fed7\/18513\/24773\/\" target=\"_blank\">Koppel<\/a> uw account met YouTube.",
+                "warnings": "",
+                "informatie": "",
+                "data": [              ],
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2411575,
+                "status": "adv_active",
+                "previewtitle": "Citroen C4 1.2 Puretech Feel | Trekhaak |"
+              },
+              "productId": 3015764
+            },
+            {
+              "id": 12074998,
+              "portal": 237,
+              "code": "eigenwebsiteincrementeel1",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "09-11-2023",
+                  "geplaatst": "09-11-2023"
+                },
+                "extrainfo": {
+                  "adminLink": "Klik <a href=\"https:\/\/eigenwebsite.doorlinkenvoorraad.nl\/?cid=24773&t=1704435650&key=fd42739464c973122cca3a89378807e1\" target=\"_blank\">hier<\/a> om naar het naar het beheergedeelte van Eigen Website Incrementeel 1 te gaan."
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2411575,
+                "status": "adv_active",
+                "previewtitle": "Citroen C4 1.2 Puretech Feel | Trekhaak |"
+              },
+              "productId": 3015764
+            },
+            {
+              "id": 12075001,
+              "portal": 367,
+              "code": "mobilox",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "09-11-2023",
+                  "geplaatst": "09-11-2023"
+                },
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2411575,
+                "status": "adv_active",
+                "previewtitle": "Citroen C4 1.2 Puretech Feel | Trekhaak |"
+              },
+              "productId": 3015764
+            },
+            {
+              "id": 12075004,
+              "portal": 271,
+              "code": "marktnet",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "adSettingsLink": "http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/251776739\/2443bf036438c97f3068f18eac917241",
+                  "eerst_geplaatst": "09-11-2023",
+                  "geplaatst": "09-11-2023",
+                  "url": "https:\/\/www.marktnet.nl\/ad.asp?Id=69173746",
+                  "site_ad_id": "69173746",
+                  "hits": 3
+                },
+                "extrainfo": {
+                  "url": "https:\/\/www.marktnet.nl\/ad.asp?Id=69173746",
+                  "hits": "Deze advertentie is 3 keer bekeken.",
+                  "settings": "<a href=\"http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/251776739\/2443bf036438c97f3068f18eac917241\" target=\"_blank\">Instellingen<\/a>"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2411575,
+                "status": "adv_active",
+                "previewtitle": "Citroen C4 1.2 Puretech Feel | Trekhaak |"
+              },
+              "productId": 3015764
+            },
+            {
+              "id": 12075007,
+              "portal": 333,
+              "code": "tweedehands",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "adSettingsLink": "http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/251776738\/ca8f732002fc6cb31a03fb0bab2bd891",
+                  "eerst_geplaatst": "09-11-2023",
+                  "geplaatst": "09-11-2023",
+                  "url": "https:\/\/autos.tweedehands.net\/citroeen\/citroen-c4-1-2-puretech-feel-trekhaak.html",
+                  "site_ad_id": "39558148",
+                  "hits": 89
+                },
+                "extrainfo": {
+                  "url": "https:\/\/autos.tweedehands.net\/citroeen\/citroen-c4-1-2-puretech-feel-trekhaak.html",
+                  "hits": "Deze advertentie is 89 keer bekeken.",
+                  "settings": "<a href=\"http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/251776738\/ca8f732002fc6cb31a03fb0bab2bd891\" target=\"_blank\">Instellingen<\/a>"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2411575,
+                "status": "adv_active",
+                "previewtitle": "Citroen C4 1.2 Puretech Feel | Trekhaak |"
+              },
+              "productId": 3015764
+            },
+            {
+              "id": 12075010,
+              "portal": 202,
+              "code": "autovooru",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "09-11-2023",
+                  "geplaatst": "09-11-2023",
+                  "url": "https:\/\/autovooru.nl\/citroen-c4~e0-378-3a2cbf.html"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/autovooru.nl\/citroen-c4~e0-378-3a2cbf.html"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2411575,
+                "status": "adv_active",
+                "previewtitle": "Citroen C4 1.2 Puretech Feel | Trekhaak |"
+              },
+              "productId": 3015764
+            },
+            {
+              "id": 12075013,
+              "portal": 693,
+              "code": "leaseauto",
+              "data": {
+                "status": "error",
+                "foutmelding": "De advertentie kan niet worden geplaatst. De tellerstand is onbekend.",
+                "oplossing": "Vul de tellerstand in.",
+                "warnings": "",
+                "informatie": "",
+                "data": [              ],
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2411575,
+                "status": "adv_active",
+                "previewtitle": "Citroen C4 1.2 Puretech Feel | Trekhaak |"
+              },
+              "productId": 3015764
+            }
+          ]
+        },
+        "isPart": false,
+        "publishedToWeb": true,
+        "quantity": 1,
+        "automaticFitments": null,
+        "automaticFitmentsStatus": null,
+        "crossReferenceStatus": null,
+        "alerts": [
+          {
+            "text": "Stadagen: 101",
+            "severity": 1,
+            "type": "too_long_in_stock"
+          },
+          {
+            "text": "Geen tellerstand",
+            "severity": 1,
+            "type": "nap_geen_oordeel"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": 3000071,
+        "barcode": "0003000071",
+        "pid": null,
+        "title": "Renault Twingo 1.2 TCE GT Airco",
+        "description": "02 \/ 2008, 3 deurs Hatchback,  APK tot: 10-01-2024, Stadagen: 107",
+        "category": {
+          "devCode": "VOERTUIGEN_AUTO",
+          "parent": {
+            "devCode": "VOERTUIGEN"
+          }
+        },
+        "location": {
+          "rootid": 1409,
+          "id": 1409,
+          "name": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationPath": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationInfo": {
+            "address": "Noordeinde 68",
+            "zipPostal": "2514GL",
+            "city": "Den Haag",
+            "phone": "085-0160161"
+          }
+        },
+        "attributeValues": {
+          "WARAUT": null,
+          "ZBRA": null,
+          "WBLV": null,
+          "WBRV": null,
+          "WBLA": null,
+          "WBRA": null,
+          "PRICE_INSURANCE": null,
+          "PRICE_CREDIT": null,
+          "MAKEWAR": null,
+          "TCABLE": null,
+          "CABLELE": null,
+          "RADIUS": null,
+          "TACCU": null,
+          "LVERM": null,
+          "ZBLA": null,
+          "ZBRV": null,
+          "WARCAR": null,
+          "WARB40P": null,
+          "WARBOVG": null,
+          "WAR100": null,
+          "WARBAFL": null,
+          "SER": null,
+          "SERD": null,
+          "DISVER": null,
+          "DISVERD": null,
+          "DISVERKM": null,
+          "PRICE_INKOOP": null,
+          "SERKM": null,
+          "ZBLV": null,
+          "LSPEED": null,
+          "LEASEACCU": null,
+          "ACTIEPRIJS_GELDIG_VANAF": null,
+          "FAST_CHARGING_SPEED": null,
+          "BATTERY_COOLING": null,
+          "BATTERY_HEATING": null,
+          "BATTERY_CONDITION": null,
+          "FAST_CHARGING_TIME": null,
+          "CHARGING_TIME": null,
+          "CHARGING_CONNECTOR": null,
+          "FAST_CHARGING": null,
+          "FAST_CHARGING_CONNECTOR": null,
+          "BDMT_VOOR": null,
+          "WHL_BASE": null,
+          "BATTERY_CAPACITY": null,
+          "BDMT_ACHTER": null,
+          "RIM_SIZE": null,
+          "FUELCAP": null,
+          "MAKEWARM": null,
+          "AIRSERD": null,
+          "AIRSERKM": null,
+          "FAST_CHARGING_CAPACITY": null,
+          "LDVM": null,
+          "TYPE_HYBRIDE": null,
+          "ACTIEPRIJS_GELDIG_TM": null,
+          "CHARGING_CAPACITY": null,
+          "VEHICLE_WIDTH": null,
+          "ORIGIN": null,
+          "NR_OWNERS": null,
+          "STADAGEN": null,
+          "SERVICE_BOOKS": null,
+          "NR_OF_TRANSMITTERS": null,
+          "MODEL_YEAR": null,
+          "REPORTING_CODE": null,
+          "TAX_TYPE": "Marge",
+          "PRICE_REPAIR": null,
+          "PRICE_VALUE": null,
+          "PRICE_SHOWROOM": null,
+          "PRICE_HANDEL": null,
+          "PRICE_ACTION": null,
+          "PRICE_MEENEEM": null,
+          "PRICE_EXPORT": null,
+          "PRICE_NEW": null,
+          "TAX_VALUE": null,
+          "PRICE_PREPARE": null,
+          "NR_OF_OWNERS": null,
+          "RDW_OREH_MELDING": null,
+          "RDW_OKR_MELDING": null,
+          "AGGREGATIONCLASS": null,
+          "VEHICLE_HEIGHT": "1470",
+          "VEHICLE_LENGTH": "360",
+          "EURO_CLASS": "4",
+          "IMPORTED": null,
+          "APK_BIJ_AFLEVERING": null,
+          "AFLEVERKOSTEN": null,
+          "ENERGYLABEL": null,
+          "LIST_PRICE": null,
+          "RDW_VOERTUIG_CLASSIFICATIE": "Personenauto",
+          "APK_VERVAL_DATUM": "2024-01-10",
+          "NR_OF_SEATS": "4",
+          "NR_OF_CYLINDERS": 4,
+          "CONSUMPTION_COMBINED": "5.9",
+          "MAX_MASS_UNBRAKED": 350,
+          "MAX_MASS_BRAKED": null,
+          "RDW_OVI_WOK_AANVRAAG_DATUM": null,
+          "NAME_INKOOP": null,
+          "CUSTOM_VEHICLE": null,
+          "BRAND": "Renault",
+          "COLOR": "zwart",
+          "COLNAM": null,
+          "GRDS": null,
+          "MODEL": "Twingo",
+          "TYPE": "1.2 TCE GT Airco",
+          "LICEN": "JV983J",
+          "VIN": null,
+          "BOWMD": "02",
+          "WEIGH": 955,
+          "MAX_WEIGH": null,
+          "ENERGY_LABEL": "C",
+          "INTC": null,
+          "SHOWLICEN": 1,
+          "FACCO": "II",
+          "ATX_TYPE_ID": 81746,
+          "SIBBEN_BRAND_ID": 93,
+          "RDW_DATUM_EERSTE_TOELATING_NATIONAAL": "2016-06-24",
+          "RDW_CATALOGUS_PRIJS": null,
+          "RDW_BRUTO_BPM": 2501.0,
+          "RDW_DATUM_EERSTE_TOELATING_INTERNATIONAAL": "2008-02-15",
+          "COLOR_METALLIC": null,
+          "RDW_ORAD_MELDING": null,
+          "RDW_ORB_MELDING": null,
+          "TECDOC_ID": 19867,
+          "CPI_MODEL_ID": null,
+          "CPI_BRAND_ID": null,
+          "ATX_MODEL_ID": 353,
+          "ATX_BRAND_ID": 134,
+          "RDW_PLAATS_CHASSISNUMMER": "onder r. voorzitting",
+          "KEYS": null,
+          "HAS_MAINTENANCE_HISTORY": null,
+          "NR_OF_KEYS": null,
+          "RDW_OVI_WACHTENOPKEURING": null,
+          "CUSTOM_ID": null,
+          "WARRANTY_AMOUNT": null,
+          "WARRANTY_AMOUNT_TYPE": null,
+          "YOUTUBE_URL": null,
+          "KILOM": null,
+          "VEHICLE_TAX": "&euro; 102 - 115 per kwartaal",
+          "LDLENG": null,
+          "LDHEI": null,
+          "LDWID": null,
+          "COLOR_TINT": null,
+          "COLOR_TYPE": "Metallic",
+          "INTERIOR_COLOR": null,
+          "INTERIOR_COATING": null,
+          "INTN": null,
+          "MTNR": null,
+          "BRAND_BRAKE_SYSTEM": null,
+          "DISTANCE_UNIT": "KM",
+          "BRAND_FUEL_SYSTEM": null,
+          "CC": "1149",
+          "KW": "74",
+          "COLEX": null,
+          "DOORS": "3",
+          "BODY": "Hatchback",
+          "DRIVE": "Voorwielaandrijving",
+          "FUEL": "Benzine",
+          "BOWJR": "2008",
+          "DRIVING_POSITION": null,
+          "NR_OF_GEARS": null,
+          "TRANS": "Handgeschakeld",
+          "TRANS_EXTRA": null,
+          "ENGCO": "D4F K7",
+          "TRANSMISSION_CODE": null
+        },
+        "isArchived": false,
+        "soldAt": null,
+        "price": null,
+        "salePrice": null,
+        "priceWithDiscount": null,
+        "picture": "https:\/\/api.mobilox.nl\/media\/cache\/resolve\/default_set\/rc\/Tq4BmBUI\/ob_uploads\/2023\/10\/1888419\/2b46de7d28d56a02f44a29f73726ace8b40e1e79.jpeg?filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bimage%5D=ob_uploads\/2021\/11\/a76ade029709f7e8ba22b8a0fe4ebb0615ab9c1c.png&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bsize%5D=1&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bposition%5D=top&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Border%5D=0&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bimage%5D=watermarks\/mobilox\/logo.png&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bsize%5D=0.2&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bposition%5D=bottomleft",
+        "advertisement": {
+          "id": 2368256,
+          "koppelingen": [
+            {
+              "id": 11794538,
+              "portal": 203,
+              "code": "autowereld",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2368256,
+                "status": "",
+                "previewtitle": "Renault Twingo 1.2 TCE GT Airco"
+              },
+              "productId": 3000071
+            },
+            {
+              "id": 11794541,
+              "portal": 291,
+              "code": "nederlandmobiel",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2368256,
+                "status": "",
+                "previewtitle": "Renault Twingo 1.2 TCE GT Airco"
+              },
+              "productId": 3000071
+            },
+            {
+              "id": 11794544,
+              "portal": 320,
+              "code": "taggle",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2368256,
+                "status": "",
+                "previewtitle": "Renault Twingo 1.2 TCE GT Airco"
+              },
+              "productId": 3000071
+            },
+            {
+              "id": 11794547,
+              "portal": 349,
+              "code": "youtube",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2368256,
+                "status": "",
+                "previewtitle": "Renault Twingo 1.2 TCE GT Airco"
+              },
+              "productId": 3000071
+            },
+            {
+              "id": 11794550,
+              "portal": 237,
+              "code": "eigenwebsiteincrementeel1",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2368256,
+                "status": "",
+                "previewtitle": "Renault Twingo 1.2 TCE GT Airco"
+              },
+              "productId": 3000071
+            },
+            {
+              "id": 11794556,
+              "portal": 271,
+              "code": "marktnet",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2368256,
+                "status": "",
+                "previewtitle": "Renault Twingo 1.2 TCE GT Airco"
+              },
+              "productId": 3000071
+            },
+            {
+              "id": 11794559,
+              "portal": 333,
+              "code": "tweedehands",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2368256,
+                "status": "",
+                "previewtitle": "Renault Twingo 1.2 TCE GT Airco"
+              },
+              "productId": 3000071
+            },
+            {
+              "id": 11794562,
+              "portal": 202,
+              "code": "autovooru",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2368256,
+                "status": "",
+                "previewtitle": "Renault Twingo 1.2 TCE GT Airco"
+              },
+              "productId": 3000071
+            },
+            {
+              "id": 11794565,
+              "portal": 693,
+              "code": "leaseauto",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2368256,
+                "status": "",
+                "previewtitle": "Renault Twingo 1.2 TCE GT Airco"
+              },
+              "productId": 3000071
+            },
+            {
+              "id": 11794631,
+              "portal": 184,
+              "code": "autocenter",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2368256,
+                "status": "",
+                "previewtitle": "Renault Twingo 1.2 TCE GT Airco"
+              },
+              "productId": 3000071
+            }
+          ]
+        },
+        "isPart": false,
+        "publishedToWeb": false,
+        "quantity": 1,
+        "automaticFitments": null,
+        "automaticFitmentsStatus": null,
+        "crossReferenceStatus": null,
+        "alerts": [
+          {
+            "text": "Stadagen: 107",
+            "severity": 1,
+            "type": "too_long_in_stock"
+          },
+          {
+            "text": "Geen tellerstand",
+            "severity": 1,
+            "type": "nap_geen_oordeel"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": 2972261,
+        "barcode": "0002972261",
+        "pid": null,
+        "title": "Volkswagen Golf Variant 2.0 TDI R-Line Business+",
+        "description": "2021, 5 deurs Station, 143876 KM, Stadagen: 356",
+        "category": {
+          "devCode": "VOERTUIGEN_AUTO",
+          "parent": {
+            "devCode": "VOERTUIGEN"
+          }
+        },
+        "location": {
+          "rootid": 1409,
+          "id": 1409,
+          "name": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationPath": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationInfo": {
+            "address": "Noordeinde 68",
+            "zipPostal": "2514GL",
+            "city": "Den Haag",
+            "phone": "085-0160161"
+          }
+        },
+        "attributeValues": {
+          "WARAUT": null,
+          "ZBRA": null,
+          "WBLV": null,
+          "WBRV": null,
+          "WBLA": null,
+          "WBRA": null,
+          "PRICE_INSURANCE": null,
+          "PRICE_CREDIT": 0.0,
+          "MAKEWAR": null,
+          "TCABLE": null,
+          "CABLELE": null,
+          "RADIUS": null,
+          "TACCU": null,
+          "LVERM": null,
+          "ZBLA": null,
+          "ZBRV": null,
+          "WARCAR": null,
+          "WARB40P": null,
+          "WARBOVG": null,
+          "WAR100": null,
+          "WARBAFL": null,
+          "SER": null,
+          "SERD": null,
+          "DISVER": null,
+          "DISVERD": null,
+          "DISVERKM": null,
+          "PRICE_INKOOP": null,
+          "SERKM": null,
+          "ZBLV": null,
+          "LSPEED": null,
+          "LEASEACCU": null,
+          "ACTIEPRIJS_GELDIG_VANAF": null,
+          "FAST_CHARGING_SPEED": null,
+          "BATTERY_COOLING": null,
+          "BATTERY_HEATING": null,
+          "BATTERY_CONDITION": null,
+          "FAST_CHARGING_TIME": null,
+          "CHARGING_TIME": null,
+          "CHARGING_CONNECTOR": null,
+          "FAST_CHARGING": null,
+          "FAST_CHARGING_CONNECTOR": null,
+          "BDMT_VOOR": null,
+          "WHL_BASE": null,
+          "BATTERY_CAPACITY": null,
+          "BDMT_ACHTER": null,
+          "RIM_SIZE": null,
+          "FUELCAP": null,
+          "MAKEWARM": null,
+          "AIRSERD": null,
+          "AIRSERKM": null,
+          "FAST_CHARGING_CAPACITY": null,
+          "LDVM": null,
+          "TYPE_HYBRIDE": null,
+          "ACTIEPRIJS_GELDIG_TM": null,
+          "CHARGING_CAPACITY": null,
+          "VEHICLE_WIDTH": null,
+          "ORIGIN": null,
+          "NR_OWNERS": null,
+          "STADAGEN": 0,
+          "SERVICE_BOOKS": null,
+          "NR_OF_TRANSMITTERS": null,
+          "MODEL_YEAR": null,
+          "REPORTING_CODE": 1,
+          "TAX_TYPE": "Marge",
+          "PRICE_REPAIR": null,
+          "PRICE_VALUE": null,
+          "PRICE_SHOWROOM": null,
+          "PRICE_HANDEL": null,
+          "PRICE_ACTION": null,
+          "PRICE_MEENEEM": null,
+          "PRICE_EXPORT": null,
+          "PRICE_NEW": null,
+          "TAX_VALUE": null,
+          "PRICE_PREPARE": null,
+          "NR_OF_OWNERS": null,
+          "RDW_OREH_MELDING": null,
+          "RDW_OKR_MELDING": null,
+          "AGGREGATIONCLASS": null,
+          "VEHICLE_HEIGHT": null,
+          "VEHICLE_LENGTH": null,
+          "EURO_CLASS": null,
+          "IMPORTED": null,
+          "APK_BIJ_AFLEVERING": null,
+          "AFLEVERKOSTEN": null,
+          "ENERGYLABEL": null,
+          "LIST_PRICE": null,
+          "RDW_VOERTUIG_CLASSIFICATIE": null,
+          "APK_VERVAL_DATUM": null,
+          "NR_OF_SEATS": "5",
+          "NR_OF_CYLINDERS": 4,
+          "CONSUMPTION_COMBINED": "4.7",
+          "MAX_MASS_UNBRAKED": null,
+          "MAX_MASS_BRAKED": null,
+          "RDW_OVI_WOK_AANVRAAG_DATUM": null,
+          "NAME_INKOOP": null,
+          "CUSTOM_VEHICLE": null,
+          "BRAND": "Volkswagen",
+          "COLOR": null,
+          "COLNAM": null,
+          "GRDS": null,
+          "MODEL": "Golf Variant",
+          "TYPE": "2.0 TDI R-Line Business+",
+          "LICEN": "RD0101",
+          "VIN": null,
+          "BOWMD": null,
+          "WEIGH": null,
+          "MAX_WEIGH": null,
+          "ENERGY_LABEL": null,
+          "INTC": null,
+          "SHOWLICEN": 1,
+          "FACCO": null,
+          "ATX_TYPE_ID": 210358,
+          "SIBBEN_BRAND_ID": 121,
+          "RDW_DATUM_EERSTE_TOELATING_NATIONAAL": null,
+          "RDW_CATALOGUS_PRIJS": null,
+          "RDW_BRUTO_BPM": 0.0,
+          "RDW_DATUM_EERSTE_TOELATING_INTERNATIONAAL": null,
+          "COLOR_METALLIC": null,
+          "RDW_ORAD_MELDING": null,
+          "RDW_ORB_MELDING": null,
+          "TECDOC_ID": 141860,
+          "CPI_MODEL_ID": null,
+          "CPI_BRAND_ID": null,
+          "ATX_MODEL_ID": 1678,
+          "ATX_BRAND_ID": 147,
+          "RDW_PLAATS_CHASSISNUMMER": null,
+          "KEYS": null,
+          "HAS_MAINTENANCE_HISTORY": null,
+          "NR_OF_KEYS": null,
+          "RDW_OVI_WACHTENOPKEURING": null,
+          "CUSTOM_ID": null,
+          "WARRANTY_AMOUNT": null,
+          "WARRANTY_AMOUNT_TYPE": null,
+          "YOUTUBE_URL": null,
+          "KILOM": 143876,
+          "VEHICLE_TAX": null,
+          "LDLENG": null,
+          "LDHEI": null,
+          "LDWID": null,
+          "COLOR_TINT": null,
+          "COLOR_TYPE": null,
+          "INTERIOR_COLOR": null,
+          "INTERIOR_COATING": null,
+          "INTN": null,
+          "MTNR": null,
+          "BRAND_BRAKE_SYSTEM": null,
+          "DISTANCE_UNIT": "KM",
+          "BRAND_FUEL_SYSTEM": null,
+          "CC": "1968",
+          "KW": null,
+          "COLEX": null,
+          "DOORS": "5",
+          "BODY": "Station",
+          "DRIVE": "Voorwielaandrijving",
+          "FUEL": "Benzine",
+          "BOWJR": "2021",
+          "DRIVING_POSITION": null,
+          "NR_OF_GEARS": null,
+          "TRANS": "Handgeschakeld",
+          "TRANS_EXTRA": null,
+          "ENGCO": null,
+          "TRANSMISSION_CODE": null
+        },
+        "isArchived": false,
+        "soldAt": null,
+        "price": 4500.0,
+        "salePrice": null,
+        "priceWithDiscount": 4500.0,
+        "picture": "https:\/\/api.mobilox.nl\/media\/cache\/resolve\/default_set\/rc\/D8pcSYkG\/ob_uploads\/2023\/10\/1888419\/50ef60c19e815faffd9b0cdde5315df8d3408fbe.jpeg?filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bimage%5D=ob_uploads\/2021\/11\/a76ade029709f7e8ba22b8a0fe4ebb0615ab9c1c.png&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bsize%5D=1&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bposition%5D=top&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Border%5D=0&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bimage%5D=watermarks\/mobilox\/logo.png&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bsize%5D=0.2&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bposition%5D=bottomleft",
+        "advertisement": {
+          "id": 2343656,
+          "title": "Volkswagen Golf Variant 2.0 TDI R-Line Business+",
+          "status": "adv_active",
+          "content": "Alle auto&#39;s hebben 3 maand garantie",
+          "priceType": 1,
+          "allowOffer": false,
+          "minimalBid": null,
+          "reserved": false,
+          "koppelingen": [
+            {
+              "id": 11626775,
+              "portal": 203,
+              "code": "autowereld",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "site_ad_id": "38757419",
+                  "eerst_geplaatst": "20-10-2023",
+                  "geplaatst": "20-10-2023",
+                  "url": "https:\/\/www.autowereld.nl\/?nr=38757419"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/www.autowereld.nl\/?nr=38757419",
+                  "hitsAdvanced1": "Deze advertentie is de afgelopen week 82 keer bekeken. De afgelopen maand was dit 368. <a href=\"https:\/\/www.autowereld.nl\/c?act=inl-60c17506d6639b816cfc377cbb365556-680574&auto=38757419\" target=\"blank\">Meer informatie<\/a>"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11626778,
+              "portal": 291,
+              "code": "nederlandmobiel",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "10-10-2023",
+                  "geplaatst": "10-10-2023",
+                  "url": "https:\/\/www.nederlandmobiel.nl\/tweedehands-auto\/volkswagen\/golf-variant-20-tdi-r-line-business\/18158596"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/www.nederlandmobiel.nl\/tweedehands-auto\/volkswagen\/golf-variant-20-tdi-r-line-business\/18158596"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11626781,
+              "portal": 320,
+              "code": "taggle",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "qrCode": 2535857,
+                  "qrImageEps": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2535857%2F&s=10&t=E&time=1697835779",
+                  "qrImageJpeg": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2535857%2F&s=28&time=1697835779",
+                  "qrImageStockEps": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F6164003%2F&s=10&t=E&time=1704428688",
+                  "qrImageStockJpeg": "http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F6164003%2F&s=28&time=1704428688",
+                  "shopLink": null,
+                  "adminLink": "https:\/\/sso.taggle.nl\/5e76a820c56b0a3bfea0d969fef543e366c096401e5e7c51b734cb8bbb55d4e4\/",
+                  "videoCode": null,
+                  "youtubeCode": null,
+                  "eerst_geplaatst": "20-10-2023",
+                  "geplaatst": "20-10-2023",
+                  "url": "https:\/\/share.taggle.nl\/2535857",
+                  "site_ad_id": "2535857"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/share.taggle.nl\/2535857",
+                  "QRimages": "Download de QR-code in <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2535857%2F&s=4&time=1697835779\" target=\"_blank\">small<\/a>, <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2535857%2F&s=10&time=1697835779\" target=\"_blank\">medium<\/a>, <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2535857%2F&s=28&time=1697835779\" target=\"_blank\">large<\/a> of <a href=\"http:\/\/www.taggle.nl\/scripts\/qrcode\/qrcode.php?d=http%3A%2F%2Fwww.taggle.nl%2F2535857%2F&s=10&t=E&time=1697835779\" target=\"_blank\">EPS<\/a> formaat.",
+                  "adminLink": "Klik <a href=\"https:\/\/sso.taggle.nl\/5e76a820c56b0a3bfea0d969fef543e366c096401e5e7c51b734cb8bbb55d4e4\/\" target=\"_blank\">hier<\/a> om naar het naar het beheergedeelte van taGGle te gaan."
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11626784,
+              "portal": 349,
+              "code": "youtube",
+              "data": {
+                "status": "error",
+                "foutmelding": "De advertentie kan niet worden geplaatst. Uw account op YouTube is niet gekoppeld.",
+                "oplossing": "<a href=\"https:\/\/youtube.doorlinkenvoorraad.nl\/youtube\/authorization\/6407918cc9ad3cb3f2c441fe7544fed7\/18513\/24773\/\" target=\"_blank\">Koppel<\/a> uw account met YouTube.",
+                "warnings": "",
+                "informatie": "",
+                "data": [              ],
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11626787,
+              "portal": 237,
+              "code": "eigenwebsiteincrementeel1",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "10-10-2023",
+                  "geplaatst": "02-11-2023"
+                },
+                "extrainfo": {
+                  "adminLink": "Klik <a href=\"https:\/\/eigenwebsite.doorlinkenvoorraad.nl\/?cid=24773&t=1704435650&key=fd42739464c973122cca3a89378807e1\" target=\"_blank\">hier<\/a> om naar het naar het beheergedeelte van Eigen Website Incrementeel 1 te gaan."
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11626790,
+              "portal": 367,
+              "code": "mobilox",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "10-10-2023",
+                  "geplaatst": "10-10-2023"
+                },
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11626793,
+              "portal": 271,
+              "code": "marktnet",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "adSettingsLink": "http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/249354080\/062ae072f12c6e7ce550c78c68012521",
+                  "eerst_geplaatst": "10-10-2023",
+                  "geplaatst": "10-10-2023",
+                  "url": "https:\/\/www.marktnet.nl\/ad.asp?Id=67895468",
+                  "site_ad_id": "67895468",
+                  "hits": 6
+                },
+                "extrainfo": {
+                  "url": "https:\/\/www.marktnet.nl\/ad.asp?Id=67895468",
+                  "hits": "Deze advertentie is 6 keer bekeken.",
+                  "settings": "<a href=\"http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/249354080\/062ae072f12c6e7ce550c78c68012521\" target=\"_blank\">Instellingen<\/a>"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11626796,
+              "portal": 333,
+              "code": "tweedehands",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "adSettingsLink": "http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/249354079\/de9c7d64661e38265ee7f8ec38e36e80",
+                  "eerst_geplaatst": "10-10-2023",
+                  "geplaatst": "10-10-2023",
+                  "url": "https:\/\/autos.tweedehands.net\/volkswagen\/volkswagen-golf-variant-2-0-tdi-r-line-business.html",
+                  "site_ad_id": "39455352",
+                  "hits": 18
+                },
+                "extrainfo": {
+                  "url": "https:\/\/autos.tweedehands.net\/volkswagen\/volkswagen-golf-variant-2-0-tdi-r-line-business.html",
+                  "hits": "Deze advertentie is 18 keer bekeken.",
+                  "settings": "<a href=\"http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/249354079\/de9c7d64661e38265ee7f8ec38e36e80\" target=\"_blank\">Instellingen<\/a>"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11626799,
+              "portal": 202,
+              "code": "autovooru",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "10-10-2023",
+                  "geplaatst": "10-10-2023",
+                  "url": "https:\/\/autovooru.nl\/volkswagen-golf~164-536-399edc.html"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/autovooru.nl\/volkswagen-golf~164-536-399edc.html"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11626802,
+              "portal": 693,
+              "code": "leaseauto",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "20-10-2023",
+                  "geplaatst": "20-10-2023",
+                  "url": "https:\/\/lease.auto\/occasion\/volkswagen-golf-variant-20-tdi-r-line-business",
+                  "site_ad_id": "902329262"
+                },
+                "extrainfo": {
+                  "url": "https:\/\/lease.auto\/occasion\/volkswagen-golf-variant-20-tdi-r-line-business"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11795687,
+              "portal": 238,
+              "code": "eigenwebsiteincrementeel2",
+              "data": {
+                "status": "error",
+                "foutmelding": "De advertentie kan niet worden geplaatst. Er is een probleem met de instellingen geconstateerd.",
+                "oplossing": "Neem contact op met uw websitebouwer of controleer de instellingen in de <a href=\"https:\/\/eigenwebsite.doorlinkenvoorraad.nl\/?cid=24773&t=1706141001&key=8cf3125bd3cddd6f02e8fe8d1729c04a\" target=\"_blank\">beheertool<\/a>. ",
+                "warnings": "",
+                "informatie": "",
+                "data": [              ],
+                "extrainfo": {
+                  "adminLink": "Klik <a href=\"https:\/\/eigenwebsite.doorlinkenvoorraad.nl\/?cid=24773&t=1707076067&key=92de15222752cb869d40536e1b41b766\" target=\"_blank\">hier<\/a> om naar het naar het beheergedeelte van Eigen Website Incrementeel 2 te gaan."
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11800331,
+              "portal": 272,
+              "code": "marktplaats",
+              "data": {
+                "status": "error",
+                "foutmelding": "De advertentie kan niet worden geplaatst. Uw account op Marktplaats is niet gekoppeld.",
+                "oplossing": "<a href=\"https:\/\/action.doorlinkenvoorraad.nl\/marktplaats\/authorization\/9462229010764d1c2ca9a052502a5d7b\/698559\/\" target=\"_blank\">Koppel<\/a> uw account met Marktplaats.",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "expireDate": null,
+                  "lastUpcall": null,
+                  "listedOnPage": null,
+                  "hits": null,
+                  "referralCount": null,
+                  "emailCount": null,
+                  "phoneCount": null,
+                  "favoriteCount": null,
+                  "bids": [                ],
+                  "activePromotions": [                ],
+                  "upcallLink": null,
+                  "promotionsLink": null,
+                  "adSettingsLink": "http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/250224746\/bf56b60bf7865cc1e178e78d1e7e3e6d"
+                },
+                "extrainfo": {
+                  "settings": "<a href=\"http:\/\/action.doorlinkenvoorraad.nl\/adsettings\/250224746\/bf56b60bf7865cc1e178e78d1e7e3e6d\" target=\"_blank\">Instellingen<\/a>"
+                }
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            },
+            {
+              "id": 11800337,
+              "portal": 184,
+              "code": "autocenter",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "21-10-2023",
+                  "geplaatst": "21-10-2023"
+                },
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343656,
+                "status": "adv_active",
+                "previewtitle": "Volkswagen Golf Variant 2.0 TDI R-Line Business+"
+              },
+              "productId": 2972261
+            }
+          ]
+        },
+        "isPart": false,
+        "publishedToWeb": true,
+        "quantity": 1,
+        "automaticFitments": null,
+        "automaticFitmentsStatus": null,
+        "crossReferenceStatus": null,
+        "alerts": [
+          {
+            "text": "Stadagen: 356",
+            "severity": 1,
+            "type": "too_long_in_stock"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": 2971849,
+        "barcode": "0002971849",
+        "pid": null,
+        "title": "BMW 3-serie Touring M3 xDrive Competition",
+        "description": "2023, 5 deurs Station, Stadagen: 117",
+        "category": {
+          "devCode": "VOERTUIGEN_AUTO",
+          "parent": {
+            "devCode": "VOERTUIGEN"
+          }
+        },
+        "location": {
+          "rootid": 1409,
+          "id": 1409,
+          "name": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationPath": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationInfo": {
+            "address": "Noordeinde 68",
+            "zipPostal": "2514GL",
+            "city": "Den Haag",
+            "phone": "085-0160161"
+          }
+        },
+        "attributeValues": {
+          "WARAUT": null,
+          "ZBRA": null,
+          "WBLV": null,
+          "WBRV": null,
+          "WBLA": null,
+          "WBRA": null,
+          "PRICE_INSURANCE": null,
+          "PRICE_CREDIT": null,
+          "MAKEWAR": null,
+          "TCABLE": null,
+          "CABLELE": null,
+          "RADIUS": null,
+          "TACCU": null,
+          "LVERM": null,
+          "ZBLA": null,
+          "ZBRV": null,
+          "WARCAR": null,
+          "WARB40P": null,
+          "WARBOVG": null,
+          "WAR100": null,
+          "WARBAFL": null,
+          "SER": null,
+          "SERD": null,
+          "DISVER": null,
+          "DISVERD": null,
+          "DISVERKM": null,
+          "PRICE_INKOOP": null,
+          "SERKM": null,
+          "ZBLV": null,
+          "LSPEED": null,
+          "LEASEACCU": null,
+          "ACTIEPRIJS_GELDIG_VANAF": null,
+          "FAST_CHARGING_SPEED": null,
+          "BATTERY_COOLING": null,
+          "BATTERY_HEATING": null,
+          "BATTERY_CONDITION": null,
+          "FAST_CHARGING_TIME": null,
+          "CHARGING_TIME": null,
+          "CHARGING_CONNECTOR": null,
+          "FAST_CHARGING": null,
+          "FAST_CHARGING_CONNECTOR": null,
+          "BDMT_VOOR": null,
+          "WHL_BASE": null,
+          "BATTERY_CAPACITY": null,
+          "BDMT_ACHTER": null,
+          "RIM_SIZE": null,
+          "FUELCAP": null,
+          "MAKEWARM": null,
+          "AIRSERD": null,
+          "AIRSERKM": null,
+          "FAST_CHARGING_CAPACITY": null,
+          "LDVM": null,
+          "TYPE_HYBRIDE": null,
+          "ACTIEPRIJS_GELDIG_TM": null,
+          "CHARGING_CAPACITY": null,
+          "VEHICLE_WIDTH": null,
+          "ORIGIN": null,
+          "NR_OWNERS": null,
+          "STADAGEN": null,
+          "SERVICE_BOOKS": null,
+          "NR_OF_TRANSMITTERS": null,
+          "MODEL_YEAR": null,
+          "REPORTING_CODE": null,
+          "TAX_TYPE": "Marge",
+          "PRICE_REPAIR": null,
+          "PRICE_VALUE": null,
+          "PRICE_SHOWROOM": null,
+          "PRICE_HANDEL": null,
+          "PRICE_ACTION": null,
+          "PRICE_MEENEEM": null,
+          "PRICE_EXPORT": null,
+          "PRICE_NEW": null,
+          "TAX_VALUE": null,
+          "PRICE_PREPARE": null,
+          "NR_OF_OWNERS": null,
+          "RDW_OREH_MELDING": null,
+          "RDW_OKR_MELDING": null,
+          "AGGREGATIONCLASS": null,
+          "VEHICLE_HEIGHT": null,
+          "VEHICLE_LENGTH": null,
+          "EURO_CLASS": null,
+          "IMPORTED": null,
+          "APK_BIJ_AFLEVERING": null,
+          "AFLEVERKOSTEN": null,
+          "ENERGYLABEL": null,
+          "LIST_PRICE": null,
+          "RDW_VOERTUIG_CLASSIFICATIE": null,
+          "APK_VERVAL_DATUM": null,
+          "NR_OF_SEATS": "5",
+          "NR_OF_CYLINDERS": 6,
+          "CONSUMPTION_COMBINED": "10",
+          "MAX_MASS_UNBRAKED": null,
+          "MAX_MASS_BRAKED": null,
+          "RDW_OVI_WOK_AANVRAAG_DATUM": null,
+          "NAME_INKOOP": null,
+          "CUSTOM_VEHICLE": null,
+          "BRAND": "BMW",
+          "COLOR": null,
+          "COLNAM": null,
+          "GRDS": null,
+          "MODEL": "M3",
+          "TYPE": "xDrive Competition",
+          "LICEN": null,
+          "VIN": null,
+          "BOWMD": null,
+          "WEIGH": 1865,
+          "MAX_WEIGH": null,
+          "ENERGY_LABEL": null,
+          "INTC": null,
+          "SHOWLICEN": 1,
+          "FACCO": "G81",
+          "ATX_TYPE_ID": 223984,
+          "SIBBEN_BRAND_ID": 14,
+          "RDW_DATUM_EERSTE_TOELATING_NATIONAAL": null,
+          "RDW_CATALOGUS_PRIJS": null,
+          "RDW_BRUTO_BPM": 0.0,
+          "RDW_DATUM_EERSTE_TOELATING_INTERNATIONAAL": null,
+          "COLOR_METALLIC": null,
+          "RDW_ORAD_MELDING": null,
+          "RDW_ORB_MELDING": null,
+          "TECDOC_ID": null,
+          "CPI_MODEL_ID": null,
+          "CPI_BRAND_ID": null,
+          "ATX_MODEL_ID": 1555,
+          "ATX_BRAND_ID": 98,
+          "RDW_PLAATS_CHASSISNUMMER": null,
+          "KEYS": null,
+          "HAS_MAINTENANCE_HISTORY": null,
+          "NR_OF_KEYS": null,
+          "RDW_OVI_WACHTENOPKEURING": null,
+          "CUSTOM_ID": null,
+          "WARRANTY_AMOUNT": null,
+          "WARRANTY_AMOUNT_TYPE": null,
+          "YOUTUBE_URL": null,
+          "KILOM": null,
+          "VEHICLE_TAX": null,
+          "LDLENG": null,
+          "LDHEI": null,
+          "LDWID": null,
+          "COLOR_TINT": null,
+          "COLOR_TYPE": null,
+          "INTERIOR_COLOR": null,
+          "INTERIOR_COATING": null,
+          "INTN": null,
+          "MTNR": null,
+          "BRAND_BRAKE_SYSTEM": null,
+          "DISTANCE_UNIT": "KM",
+          "BRAND_FUEL_SYSTEM": null,
+          "CC": "2993",
+          "KW": "375",
+          "COLEX": null,
+          "DOORS": "5",
+          "BODY": "Station",
+          "DRIVE": "Vierwielaandrijving",
+          "FUEL": "Benzine",
+          "BOWJR": "2023",
+          "DRIVING_POSITION": null,
+          "NR_OF_GEARS": null,
+          "TRANS": "Automaat",
+          "TRANS_EXTRA": null,
+          "ENGCO": null,
+          "TRANSMISSION_CODE": null
+        },
+        "isArchived": false,
+        "soldAt": null,
+        "price": null,
+        "salePrice": null,
+        "priceWithDiscount": null,
+        "picture": "https:\/\/api.mobilox.nl\/media\/cache\/resolve\/default_set\/rc\/g4H0hdIq\/ob_uploads\/2023\/10\/1888419\/7e886235df1310c0d9bb8e4f0ab54df079a02e40.jpeg?filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bimage%5D=ob_uploads\/2021\/11\/a76ade029709f7e8ba22b8a0fe4ebb0615ab9c1c.png&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bsize%5D=1&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bposition%5D=top&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Border%5D=0&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bimage%5D=watermarks\/mobilox\/logo.png&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bsize%5D=0.2&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bposition%5D=bottomleft",
+        "advertisement": {
+          "id": 2343277,
+          "koppelingen": [
+            {
+              "id": 11623537,
+              "portal": 203,
+              "code": "autowereld",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343277,
+                "status": "",
+                "previewtitle": "BMW 3-serie Touring M3 xDrive Competition"
+              },
+              "productId": 2971849
+            },
+            {
+              "id": 11623540,
+              "portal": 291,
+              "code": "nederlandmobiel",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343277,
+                "status": "",
+                "previewtitle": "BMW 3-serie Touring M3 xDrive Competition"
+              },
+              "productId": 2971849
+            },
+            {
+              "id": 11623543,
+              "portal": 320,
+              "code": "taggle",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343277,
+                "status": "",
+                "previewtitle": "BMW 3-serie Touring M3 xDrive Competition"
+              },
+              "productId": 2971849
+            },
+            {
+              "id": 11623546,
+              "portal": 349,
+              "code": "youtube",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343277,
+                "status": "",
+                "previewtitle": "BMW 3-serie Touring M3 xDrive Competition"
+              },
+              "productId": 2971849
+            },
+            {
+              "id": 11623549,
+              "portal": 237,
+              "code": "eigenwebsiteincrementeel1",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343277,
+                "status": "",
+                "previewtitle": "BMW 3-serie Touring M3 xDrive Competition"
+              },
+              "productId": 2971849
+            },
+            {
+              "id": 11623552,
+              "portal": 367,
+              "code": "mobilox",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343277,
+                "status": "",
+                "previewtitle": "BMW 3-serie Touring M3 xDrive Competition"
+              },
+              "productId": 2971849
+            },
+            {
+              "id": 11623555,
+              "portal": 271,
+              "code": "marktnet",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343277,
+                "status": "",
+                "previewtitle": "BMW 3-serie Touring M3 xDrive Competition"
+              },
+              "productId": 2971849
+            },
+            {
+              "id": 11623558,
+              "portal": 333,
+              "code": "tweedehands",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343277,
+                "status": "",
+                "previewtitle": "BMW 3-serie Touring M3 xDrive Competition"
+              },
+              "productId": 2971849
+            },
+            {
+              "id": 11623561,
+              "portal": 202,
+              "code": "autovooru",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343277,
+                "status": "",
+                "previewtitle": "BMW 3-serie Touring M3 xDrive Competition"
+              },
+              "productId": 2971849
+            },
+            {
+              "id": 11623564,
+              "portal": 693,
+              "code": "leaseauto",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343277,
+                "status": "",
+                "previewtitle": "BMW 3-serie Touring M3 xDrive Competition"
+              },
+              "productId": 2971849
+            },
+            {
+              "id": 11951054,
+              "portal": 272,
+              "code": "marktplaats",
+              "data": {
+                "status": "information",
+                "informatie": "Er is nog geen tijdstip van plaatsing bekend.",
+                "warnings": [              ],
+                "extrainfo": [              ],
+                "data": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2343277,
+                "status": "",
+                "previewtitle": "BMW 3-serie Touring M3 xDrive Competition"
+              },
+              "productId": 2971849
+            }
+          ]
+        },
+        "isPart": false,
+        "publishedToWeb": false,
+        "quantity": 1,
+        "automaticFitments": null,
+        "automaticFitmentsStatus": null,
+        "crossReferenceStatus": null,
+        "alerts": [
+          {
+            "text": "Stadagen: 117",
+            "severity": 1,
+            "type": "too_long_in_stock"
+          },
+          {
+            "text": "Geen tellerstand",
+            "severity": 1,
+            "type": "nap_geen_oordeel"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": 2567231,
+        "barcode": "0002567231",
+        "pid": null,
+        "title": "Daihatsu Terios 1.5-16v 2WD",
+        "description": "09 \/ 2007, 5 deurs SUV, 105000 KM, APK tot: 03-05-2024, Stadagen: 137",
+        "category": {
+          "devCode": "VOERTUIGEN_AUTO",
+          "parent": {
+            "devCode": "VOERTUIGEN"
+          }
+        },
+        "location": {
+          "rootid": 1409,
+          "id": 1409,
+          "name": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationPath": "Autobedrijf Voorbeeld - dit voertuig is niet te koop",
+          "locationInfo": {
+            "address": "Noordeinde 68",
+            "zipPostal": "2514GL",
+            "city": "Den Haag",
+            "phone": "085-0160161"
+          }
+        },
+        "attributeValues": {
+          "WARAUT": null,
+          "ZBRA": null,
+          "WBLV": null,
+          "WBRV": null,
+          "WBLA": null,
+          "WBRA": null,
+          "PRICE_INSURANCE": null,
+          "PRICE_CREDIT": null,
+          "MAKEWAR": null,
+          "TCABLE": null,
+          "CABLELE": null,
+          "RADIUS": null,
+          "TACCU": null,
+          "LVERM": null,
+          "ZBLA": null,
+          "ZBRV": null,
+          "WARCAR": null,
+          "WARB40P": null,
+          "WARBOVG": null,
+          "WAR100": null,
+          "WARBAFL": null,
+          "SER": null,
+          "SERD": null,
+          "DISVER": null,
+          "DISVERD": null,
+          "DISVERKM": null,
+          "PRICE_INKOOP": null,
+          "SERKM": null,
+          "ZBLV": null,
+          "LSPEED": null,
+          "LEASEACCU": null,
+          "ACTIEPRIJS_GELDIG_VANAF": null,
+          "FAST_CHARGING_SPEED": null,
+          "BATTERY_COOLING": null,
+          "BATTERY_HEATING": null,
+          "BATTERY_CONDITION": null,
+          "FAST_CHARGING_TIME": null,
+          "CHARGING_TIME": null,
+          "CHARGING_CONNECTOR": null,
+          "FAST_CHARGING": null,
+          "FAST_CHARGING_CONNECTOR": null,
+          "BDMT_VOOR": null,
+          "WHL_BASE": null,
+          "BATTERY_CAPACITY": null,
+          "BDMT_ACHTER": null,
+          "RIM_SIZE": null,
+          "FUELCAP": null,
+          "MAKEWARM": null,
+          "AIRSERD": null,
+          "AIRSERKM": null,
+          "FAST_CHARGING_CAPACITY": null,
+          "LDVM": null,
+          "TYPE_HYBRIDE": null,
+          "ACTIEPRIJS_GELDIG_TM": null,
+          "CHARGING_CAPACITY": null,
+          "VEHICLE_WIDTH": null,
+          "ORIGIN": null,
+          "NR_OWNERS": null,
+          "STADAGEN": null,
+          "SERVICE_BOOKS": null,
+          "NR_OF_TRANSMITTERS": null,
+          "MODEL_YEAR": null,
+          "REPORTING_CODE": null,
+          "TAX_TYPE": "Marge",
+          "PRICE_REPAIR": null,
+          "PRICE_VALUE": null,
+          "PRICE_SHOWROOM": null,
+          "PRICE_HANDEL": null,
+          "PRICE_ACTION": null,
+          "PRICE_MEENEEM": null,
+          "PRICE_EXPORT": null,
+          "PRICE_NEW": null,
+          "TAX_VALUE": null,
+          "PRICE_PREPARE": null,
+          "NR_OF_OWNERS": null,
+          "RDW_OREH_MELDING": null,
+          "RDW_OKR_MELDING": null,
+          "AGGREGATIONCLASS": null,
+          "VEHICLE_HEIGHT": null,
+          "VEHICLE_LENGTH": null,
+          "EURO_CLASS": "4",
+          "IMPORTED": null,
+          "APK_BIJ_AFLEVERING": null,
+          "AFLEVERKOSTEN": null,
+          "ENERGYLABEL": null,
+          "LIST_PRICE": null,
+          "RDW_VOERTUIG_CLASSIFICATIE": "Personenauto",
+          "APK_VERVAL_DATUM": "2024-05-03",
+          "NR_OF_SEATS": "5",
+          "NR_OF_CYLINDERS": 4,
+          "CONSUMPTION_COMBINED": "7.5",
+          "MAX_MASS_UNBRAKED": 400,
+          "MAX_MASS_BRAKED": 1350,
+          "RDW_OVI_WOK_AANVRAAG_DATUM": null,
+          "NAME_INKOOP": null,
+          "CUSTOM_VEHICLE": null,
+          "BRAND": "Daihatsu",
+          "COLOR": "grijs",
+          "COLNAM": null,
+          "GRDS": null,
+          "MODEL": "Terios",
+          "TYPE": "1.5-16v 2WD",
+          "LICEN": "2SNZ61",
+          "VIN": null,
+          "BOWMD": "09",
+          "WEIGH": 1115,
+          "MAX_WEIGH": null,
+          "ENERGY_LABEL": "E",
+          "INTC": null,
+          "SHOWLICEN": 1,
+          "FACCO": "II",
+          "ATX_TYPE_ID": 71347,
+          "SIBBEN_BRAND_ID": 29,
+          "RDW_DATUM_EERSTE_TOELATING_NATIONAAL": "2013-12-28",
+          "RDW_CATALOGUS_PRIJS": null,
+          "RDW_BRUTO_BPM": 2104.0,
+          "RDW_DATUM_EERSTE_TOELATING_INTERNATIONAAL": "2007-09-07",
+          "COLOR_METALLIC": null,
+          "RDW_ORAD_MELDING": null,
+          "RDW_ORB_MELDING": null,
+          "TECDOC_ID": 21760,
+          "CPI_MODEL_ID": null,
+          "CPI_BRAND_ID": null,
+          "ATX_MODEL_ID": 123,
+          "ATX_BRAND_ID": 105,
+          "RDW_PLAATS_CHASSISNUMMER": "op dwarsbalk onder r. voorzitting",
+          "KEYS": null,
+          "HAS_MAINTENANCE_HISTORY": null,
+          "NR_OF_KEYS": null,
+          "RDW_OVI_WACHTENOPKEURING": null,
+          "CUSTOM_ID": null,
+          "WARRANTY_AMOUNT": null,
+          "WARRANTY_AMOUNT_TYPE": null,
+          "YOUTUBE_URL": null,
+          "KILOM": 105000,
+          "VEHICLE_TAX": "&euro; 125 - 141 per kwartaal",
+          "LDLENG": null,
+          "LDHEI": null,
+          "LDWID": null,
+          "COLOR_TINT": null,
+          "COLOR_TYPE": "Metallic",
+          "INTERIOR_COLOR": null,
+          "INTERIOR_COATING": null,
+          "INTN": null,
+          "MTNR": null,
+          "BRAND_BRAKE_SYSTEM": null,
+          "DISTANCE_UNIT": "KM",
+          "BRAND_FUEL_SYSTEM": null,
+          "CC": "1495",
+          "KW": "77",
+          "COLEX": null,
+          "DOORS": "5",
+          "BODY": "SUV",
+          "DRIVE": "Achterwielaandrijving",
+          "FUEL": "Benzine",
+          "BOWJR": "2007",
+          "DRIVING_POSITION": null,
+          "NR_OF_GEARS": null,
+          "TRANS": "Handgeschakeld",
+          "TRANS_EXTRA": null,
+          "ENGCO": "3SZ",
+          "TRANSMISSION_CODE": null
+        },
+        "isArchived": false,
+        "soldAt": null,
+        "price": null,
+        "salePrice": null,
+        "priceWithDiscount": null,
+        "picture": "https:\/\/api.mobilox.nl\/media\/cache\/resolve\/default_set\/rc\/tiaXXajQ\/ob_uploads\/2023\/09\/1888419\/51fe94a7e524a9553c616d07df7745b7c5ca40cb.jpeg?filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bimage%5D=ob_uploads\/2021\/11\/a76ade029709f7e8ba22b8a0fe4ebb0615ab9c1c.png&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bsize%5D=1&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Bposition%5D=top&filters%5Bmultiple_watermark_filter%5D%5B0%5D%5Border%5D=0&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bimage%5D=watermarks\/mobilox\/logo.png&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bsize%5D=0.2&filters%5Bmultiple_watermark_filter%5D%5B1%5D%5Bposition%5D=bottomleft",
+        "advertisement": {
+          "id": 2301608,
+          "title": "Daihatsu Terios 1.5-16v 2WD",
+          "status": "adv_active",
+          "content": "Alle auto&#39;s hebben 3 maand garantie",
+          "priceType": 1,
+          "allowOffer": true,
+          "minimalBid": null,
+          "reserved": false,
+          "koppelingen": [
+            {
+              "id": 11316431,
+              "portal": 367,
+              "code": "mobilox",
+              "data": {
+                "status": "ok",
+                "foutmelding": "",
+                "oplossing": "",
+                "warnings": "",
+                "informatie": "",
+                "data": {
+                  "eerst_geplaatst": "22-09-2023",
+                  "geplaatst": "22-09-2023"
+                },
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2301608,
+                "status": "adv_active",
+                "previewtitle": "Daihatsu Terios 1.5-16v 2WD"
+              },
+              "productId": 2567231
+            },
+            {
+              "id": 11316443,
+              "portal": 693,
+              "code": "leaseauto",
+              "data": {
+                "status": "error",
+                "foutmelding": "De advertentie kan niet worden geplaatst. De showroomvraagprijs is onbekend.",
+                "oplossing": "Vul de showroomvraagprijs in.",
+                "warnings": "",
+                "informatie": "",
+                "data": [              ],
+                "extrainfo": [              ]
+              },
+              "type": "hexon",
+              "advertisement": {
+                "id": 2301608,
+                "status": "adv_active",
+                "previewtitle": "Daihatsu Terios 1.5-16v 2WD"
+              },
+              "productId": 2567231
+            }
+          ]
+        },
+        "isPart": false,
+        "publishedToWeb": true,
+        "quantity": 1,
+        "automaticFitments": null,
+        "automaticFitmentsStatus": null,
+        "crossReferenceStatus": null,
+        "alerts": [
+          {
+            "text": "Stadagen: 137",
+            "severity": 1,
+            "type": "too_long_in_stock"
+          }
+        ],
+        "notes": ""
+      }
+    ],
+    "statusCounts": {
+      "all": 23
+    },
+    "itemCount": 23,
+    "pageCount": 3,
+    "limit": 10,
+    "currentPage": 1,
+    "aggregations": {
+      "filters": {
+        "doc_count": 1133944,
+        "mileage": {
+          "doc_count": 1562,
+          "min": {
+            "value": 0.0
+          },
+          "max": {
+            "value": 54454545.0
+          }
+        }
+      }
+    }
+  }
